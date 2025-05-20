@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=700&lines=Hi+there%2C+I'm+Azeem+Aslam!+%F0%9F%91%8B;Computer+Vision+%26+Deep+Learning+Engineer;Freelancer+%7C+Research+Collaborator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=700&lines=Azeem+Aslam+-+A+Computer+Vision+%26+Deep+Learning+Engineer;Freelancer+%7C+Research+Collaborator;Welcome+to+my+AI+world!+🚀" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -19,8 +19,9 @@
 ---
 
 ## 🎯 My Mission
-> I'm Azeem Aslam, a Computer Vision and Deep Learning Engineer passionate about solving real-world challenges using AI.  
-> I build intelligent systems that impact healthcare, industry, and education through research, innovation, and automation.
+> Hi, I'm **Azeem Aslam**, a Computer Vision and Deep Learning Engineer.  
+> I specialize in solving real-world challenges using AI.  
+> My mission is to build intelligent systems that drive innovation in healthcare, manufacturing, and education through research, automation, and scalable deployment.
 
 ---
 
