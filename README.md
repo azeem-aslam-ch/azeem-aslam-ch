@@ -27,7 +27,7 @@
 
 ## 💻 Technical Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,r,html,css,react,nextjs,tailwind,opencv,pytorch,vercel,github" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,r,html,css,react,nextjs,tailwind,opencv,pytorch,vercel,github,r" />
 </p>
 
 ---
@@ -66,7 +66,7 @@
   <a href="mailto:azeem.aslam91@yahoo.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://www.kaggle.com/awaizadam1">
+  <a href="https://www.kaggle.com/awaisaslam1">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 </p>
