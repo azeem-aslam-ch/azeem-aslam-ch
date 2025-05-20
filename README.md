@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/floating-hi-im-azeem.gif" alt="Hi, I'm Azeem Aslam" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Azeem Aslam</h1>
 <h3 align="center"><em>Computer Vision & Deep Learning Engineer</em></h3>
 <h4 align="center">Scientific Writer & Freelancer</h4>
