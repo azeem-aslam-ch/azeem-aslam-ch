@@ -56,20 +56,29 @@
 
 <h3>💻 Technical Skills</h3>
 
-<p><b>Python</b></p>
-<progress value="90" max="100">90%</progress>
+<table>
+  <tr>
+    <td><b>🐍 Python</b></td>
+    <td><progress value="90" max="100" style="width: 300px;"></progress> 90%</td>
+  </tr>
+  <tr>
+    <td><b>📊 R</b></td>
+    <td><progress value="80" max="100" style="width: 300px;"></progress> 80%</td>
+  </tr>
+  <tr>
+    <td><b>🎨 CSS</b></td>
+    <td><progress value="75" max="100" style="width: 300px;"></progress> 75%</td>
+  </tr>
+  <tr>
+    <td><b>☕ Java</b></td>
+    <td><progress value="70" max="100" style="width: 300px;"></progress> 70%</td>
+  </tr>
+  <tr>
+    <td><b>🖥️ JavaScript</b></td>
+    <td><progress value="85" max="100" style="width: 300px;"></progress> 85%</td>
+  </tr>
+</table>
 
-<p><b>R</b></p>
-<progress value="80" max="100">80%</progress>
-
-<p><b>CSS</b></p>
-<progress value="75" max="100">75%</progress>
-
-<p><b>Java</b></p>
-<progress value="70" max="100">70%</progress>
-
-<p><b>JavaScript</b></p>
-<progress value="85" max="100">85%</progress>
 
 
 
