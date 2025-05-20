@@ -45,6 +45,10 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=azeem-aslam-ch&theme=tokyo-night" alt="GitHub Contribution Graph" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/azeem-aslam-ch/azeem-aslam-ch/main/assets/github-stats-updated.png" alt="Updated GitHub Language Stats" width="100%"/>
+</p>
+
 ---
 
 ## 🤝 Let's Connect
