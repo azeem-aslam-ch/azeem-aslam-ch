@@ -14,27 +14,6 @@
 
 ---
 
-## 🔤 Language & Framework Highlights
-
-| 💻 Tech         | Description                                                  |
-|----------------|--------------------------------------------------------------|
-| 🐍 Python      | My primary language for deep learning and automation.        |
-| 🧠 R           | Used for statistical analysis and data science experiments.  |
-| 💻 C++         | Applied in high-performance modules and CV tasks.            |
-| ☕ Java         | Leveraged in object-oriented and backend applications.       |
-| 🌐 JavaScript  | Frontend interactions and dynamic web logic.                 |
-| 🖋 HTML & CSS  | For crafting clean UI layouts in portfolio projects.         |
-| ⚙️ Flask        | Lightweight Python web framework used for AI APIs.           |
-| 📊 Streamlit    | For building interactive data apps and CV model dashboards. |
-| 🔍 YOLO         | Real-time object detection used in multiple vision projects. | Description                                   |
-|----------------|-----------------------------------------------|
-| 🐍 Python      | My primary language for deep learning and automation.
-| 🧠 R           | Used for statistical analysis and data science experiments.
-| 💻 C++         | Applied in high-performance modules and CV tasks.
-| ☕ Java         | Leveraged in object-oriented and backend applications.
-| 🌐 JavaScript  | Frontend interactions and dynamic web logic.
-| 🖋 HTML & CSS  | For crafting clean UI layouts in portfolio projects. |
-
 ## 🎯 My Mission
 > Empowering real-world problem solving using AI-driven applications, research, and full-stack development. I aim to transform complex AI solutions into accessible tools that drive innovation across industries like healthcare, manufacturing, and education.
 
@@ -42,7 +21,7 @@
 
 ## 💻 Technical Stack
 <p align="center">
-  ,flask,streamlit" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,r,html,css,react,nextjs,tailwind,opencv,pytorch,vercel,github" />
 </p>
 
 ---
