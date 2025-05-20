@@ -54,11 +54,23 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=azeem-aslam-ch&theme=tokyo-night" alt="GitHub Contribution Graph" width="100%"/>
 </p>
 
+<h3>💻 Technical Skills</h3>
+
 <p><b>Python</b></p>
 <progress value="90" max="100">90%</progress>
 
+<p><b>R</b></p>
+<progress value="80" max="100">80%</progress>
 
-<img src="https://streak-stats.demolab.com/?user=azeem-aslam-ch&theme=tokyonight"/>
+<p><b>CSS</b></p>
+<progress value="75" max="100">75%</progress>
+
+<p><b>Java</b></p>
+<progress value="70" max="100">70%</progress>
+
+<p><b>JavaScript</b></p>
+<progress value="85" max="100">85%</progress>
+
 
 
 
