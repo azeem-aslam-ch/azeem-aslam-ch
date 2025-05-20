@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=800&lines=👋+Hi%2C+I'm+Azeem+Aslam;Computer+Vision+%26+Deep+Learning+Engineer;Freelancer+%7C+Research+Collaborator" alt="Typing SVG" />
-</h1>
+<h1 align="center">👋 Hi, I'm Azeem Aslam</h1>
+<h3 align="center"><em>Computer Vision & Deep Learning Engineer</em></h3>
+<h4 align="center">Freelancer | Research Collaborator</h4>
 
 <p align="center">
   <img src="https://github.com/azeem-aslam-ch/azeem-aslam-ch/blob/main/banner.gif" alt="Animated Banner" width="100%" />
