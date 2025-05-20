@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Azeem+Aslam;Computer+Vision+%26+Deep+Learning+Engineer" alt="Typing Animation" />
+</h1>
 
 
 <h1 align="center">👋 Hi, I'm Azeem Aslam <img src="assets/floating-hi-im-azeem.gif" alt="Hi, I'm Azeem Aslam" /> </h1>
