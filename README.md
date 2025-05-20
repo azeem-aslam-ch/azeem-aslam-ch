@@ -53,6 +53,10 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=azeem-aslam-ch&theme=tokyo-night" alt="GitHub Contribution Graph" width="100%"/>
 </p>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="animation: pulse 2s infinite;" />
+
 <!-- 
 <p align="center">
   <img src="https://raw.githubusercontent.com/azeem-aslam-ch/azeem-aslam-ch/main/assets/most-used-languages.png" alt="Most Used Languages" width="100%"/>
