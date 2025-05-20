@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=700&lines=Hi+there%2C+I'm+Azeem+Aslam!+%F0%9F%91%8B;Computer+Vision+%26+Deep+Learning+Engineer;Open+to+Freelance+and+Research+Collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=700&lines=Hi+there%2C+I'm+Azeem+Aslam!+%F0%9F%91%8B;Computer+Vision+%26+Deep+Learning+Engineer;Freelancer+%7C+Research+Collaborator" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -19,7 +19,8 @@
 ---
 
 ## 🎯 My Mission
-> Empowering real-world problem solving using AI-driven applications, research, and full-stack development. I aim to transform complex AI solutions into accessible tools that drive innovation across industries like healthcare, manufacturing, and education.
+> I'm Azeem Aslam, a Computer Vision and Deep Learning Engineer passionate about solving real-world challenges using AI.  
+> I build intelligent systems that impact healthcare, industry, and education through research, innovation, and automation.
 
 ---
 
@@ -32,10 +33,10 @@
 
 ## 🌟 Highlight Projects
 
-- [YOLOv8 Vehicle Classification](https://github.com/azeem-aslam-ch/YOLOv8-Vehicle-Detection) - Real-time detection using custom dataset  
-- [Brain Tumor Detection](https://github.com/azeem-aslam-ch/brain-tumor-yolo) - Medical imaging model using YOLOv9  
-- [3D Printing Defect Detection](https://github.com/azeem-aslam-ch/3D-print-defect) - Industrial anomaly detection with CV  
-- [Face Recognition Attendance System](https://github.com/azeem-aslam-ch/face-attendance) - Biometric attendance solution  
+- [YOLOv8 Vehicle Classification](https://github.com/azeem-aslam-ch/YOLOv8-Vehicle-Detection) – Real-time detection using custom dataset  
+- [Brain Tumor Detection](https://github.com/azeem-aslam-ch/brain-tumor-yolo) – Medical imaging with YOLOv9  
+- [3D Printing Defect Detection](https://github.com/azeem-aslam-ch/3D-print-defect) – AI-powered defect analysis  
+- [Face Recognition Attendance System](https://github.com/azeem-aslam-ch/face-attendance) – Biometric solution for smart attendance  
 
 ---
 
@@ -48,11 +49,11 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=azeem-aslam-ch&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="100%"/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=azeem-aslam-ch&theme=tokyo-night" alt="GitHub Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azeem-aslam-ch&theme=tokyo-night" alt="GitHub Contribution Graph" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/azeem-aslam-ch/azeem-aslam-ch/main/assets/github-stats-updated.png" alt="Updated GitHub Language Stats" width="100%"/>
+  <img src="https://raw.githubusercontent.com/azeem-aslam-ch/azeem-aslam-ch/main/assets/github-stats-updated.png" alt="Updated GitHub Stats" width="100%"/>
 </p>
 
 ---
@@ -73,5 +74,5 @@
 ---
 
 <p align="center">
-  <em>"Pushing boundaries with intelligent vision-based systems and AI solutions."</em>
+  <em>"Pushing boundaries with intelligent vision-based systems and AI-powered solutions."</em>
 </p>
