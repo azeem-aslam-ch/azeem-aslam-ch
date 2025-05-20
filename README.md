@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  
     <img src="https://komarev.com/ghpvc/?username=azeem-aslam-ch&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
-  
 </p>
 
 ---
