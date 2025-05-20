@@ -58,6 +58,10 @@
 <progress value="90" max="100">90%</progress>
 
 
+<img src="https://streak-stats.demolab.com/?user=azeem-aslam-ch&theme=tokyonight"/>
+
+
+
 <!-- 
 <p align="center">
   <img src="https://raw.githubusercontent.com/azeem-aslam-ch/azeem-aslam-ch/main/assets/most-used-languages.png" alt="Most Used Languages" width="100%"/>
