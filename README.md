@@ -1,5 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=700&lines=Azeem+Aslam+-+A+Computer+Vision+%26+Deep+Learning+Engineer;Freelancer+%7C+Research+Collaborator;Welcome+to+my+AI+world!+🚀" alt="Typing SVG" />
+<h1 align="center" style="font-size:2.5rem;">
+  👋 Hi, I'm <span style="color:#4da6ff;">Azeem Aslam</span><br>
+  <em>Computer Vision & Deep Learning Engineer</em><br>
+  <small>Freelancer | Research Collaborator</small>
 </h1>
 
 <p align="center">
