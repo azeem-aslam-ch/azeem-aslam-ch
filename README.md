@@ -45,16 +45,15 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azeem-aslam-ch&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeem-aslam-ch&layout=compact&theme=tokyonight&langs_count=10&custom_title=Most%20Used%20Languages&hide=jupyter%20notebook" alt="Top Languages" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=azeem-aslam-ch&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=azeem-aslam-ch&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="100%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=azeem-aslam-ch&theme=tokyo-night" alt="GitHub Contribution Graph" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/azeem-aslam-ch/azeem-aslam-ch/main/assets/github-stats-updated.png" alt="Updated GitHub Stats" width="100%"/>
+  <img src="https://raw.githubusercontent.com/azeem-aslam-ch/azeem-aslam-ch/main/assets/most-used-languages.png" alt="Most Used Languages" width="100%"/>
 </p>
 
 ---
