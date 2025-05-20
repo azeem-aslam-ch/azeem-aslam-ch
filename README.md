@@ -10,6 +10,12 @@
   <img src="https://komarev.com/ghpvc/?username=azeem-aslam-ch&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
 
+<p align="center">
+  <a href="https://myportfolio-lilac-nine.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"/>
+  </a>
+</p>
+
 ---
 
 ## 🎯 My Mission
@@ -26,10 +32,10 @@
 
 ## 🌟 Highlight Projects
 
-- [YOLOv8 Vehicle Classification](https://github.com/azeem-aslam-ch/YOLOv8-Vehicle-Detection) - Real-time detection using custom dataset
-- [Brain Tumor Detection](https://github.com/azeem-aslam-ch/brain-tumor-yolo) - Medical imaging model using YOLOv9
-- [3D Printing Defect Detection](https://github.com/azeem-aslam-ch/3D-print-defect) - Industrial anomaly detection with CV
-- [Face Recognition Attendance System](https://github.com/azeem-aslam-ch/face-attendance) - Biometric attendance solution
+- [YOLOv8 Vehicle Classification](https://github.com/azeem-aslam-ch/YOLOv8-Vehicle-Detection) - Real-time detection using custom dataset  
+- [Brain Tumor Detection](https://github.com/azeem-aslam-ch/brain-tumor-yolo) - Medical imaging model using YOLOv9  
+- [3D Printing Defect Detection](https://github.com/azeem-aslam-ch/3D-print-defect) - Industrial anomaly detection with CV  
+- [Face Recognition Attendance System](https://github.com/azeem-aslam-ch/face-attendance) - Biometric attendance solution  
 
 ---
 
