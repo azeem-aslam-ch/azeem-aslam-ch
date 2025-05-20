@@ -58,7 +58,7 @@
 
 ---
 
-<h1 align="center">## 🤝 Let's Connect </h1>
+<h1 align="center">🤝 Let's Connect </h1>
 <p align="center">
   <a href="https://linkedin.com/in/azeemaslam1">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
