@@ -37,7 +37,7 @@
 - [YOLOv8 Vehicle Classification](https://github.com/azeem-aslam-ch/Real-time-Vehicle-detection) – Real-time Vehicle detection using custom dataset  
 - [Brain Tumor Detection](https://github.com/azeem-aslam-ch/Medical-imaging-with-YOLOv9-) – Medical imaging with YOLOv9  
 - [3D Printing Defect Detection](https://github.com/azeem-aslam-ch/AI-powered-defect-detection-) – AI-powered defect detection Using YOLOv8,9 and 11
-- [Face Recognition Attendance System](https://github.com/azeem-aslam-ch/face-attendance) – Biometric solution for smart attendance  
+- [Industrial Object Detection](https://github.com/azeem-aslam-ch/CV-2024) – A deep learning–based object detection system 
 
 ---
 
