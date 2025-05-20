@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Azeem Aslam</h1>
 <h3 align="center"><em>Computer Vision & Deep Learning Engineer</em></h3>
-<h4 align="center">Freelancer | Research Collaborator</h4>
+<h4 align="center">Scientific Writer & Freelancer</h4>
 
 <p align="center">
   <img src="https://github.com/azeem-aslam-ch/azeem-aslam-ch/blob/main/banner.gif" alt="Animated Banner" width="100%" />
