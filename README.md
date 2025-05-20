@@ -54,8 +54,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=azeem-aslam-ch&theme=tokyo-night" alt="GitHub Contribution Graph" width="100%"/>
 </p>
 
+<p><b>Python</b></p>
+<progress value="90" max="100">90%</progress>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="animation: pulse 2s infinite;" />
 
 <!-- 
 <p align="center">
