@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=azeem-aslam-ch&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=azeem-aslam-ch&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azeem-aslam-ch&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeem-aslam-ch&layout=compact&theme=tokyonight&langs_count=10&custom_title=Most%20Used%20Languages&hide=jupyter%20notebook&include=python,cpp,java,javascript,r,html,css" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeem-aslam-ch&layout=compact&theme=tokyonight&langs_count=10&custom_title=Most%20Used%20Languages&hide=jupyter%20notebook" alt="Top Languages" width="49%"/>
 </p>
 
 <p align="center">
