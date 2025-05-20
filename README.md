@@ -6,40 +6,28 @@
   <img src="https://github.com/azeem-aslam-ch/azeem-aslam-ch/blob/main/banner.gif" alt="Animated Banner" width="100%" />
 </p>
 
-[![Portfolio](https://img.shields.io/badge/-Visit%20My%20Portfolio-black?style=flat-square&logo=vercel)](https://myportfolio-lilac-nine.vercel.app)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=azeem-aslam-ch&style=flat-square&color=blue)
-
----
-
-## 🧑‍💻 Computer Vision & Deep Learning Engineer  
-**MSc IoT with Data Science | Python | Next.js | PyTorch | OpenCV**
-
-> Empowering real-world problem solving using AI-driven applications, research, and full-stack development.
+<p align="center">
+  <a href="https://myportfolio-lilac-nine.vercel.app">
+    <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-black?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+  </a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=azeem-aslam-ch&style=for-the-badge&color=blue" alt="visitors"/>
+</p>
 
 ---
 
-## 🌍 My Mission
-I aim to transform complex AI solutions into accessible tools that drive innovation across industries like healthcare, manufacturing, and education. 
+## 🎯 My Mission
+> Empowering real-world problem solving using AI-driven applications, research, and full-stack development. I aim to transform complex AI solutions into accessible tools that drive innovation across industries like healthcare, manufacturing, and education.
 
 ---
 
-## 🛠️ Technical Stack
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+## 💻 Technical Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,r,js,react,nextjs,tailwind,opencv,pytorch,vercel,github" />
+</p>
 
 ---
 
-## 💡 Highlight Projects
+## 🌟 Highlight Projects
 
 - [YOLOv8 Vehicle Classification](https://github.com/azeem-aslam-ch/YOLOv8-Vehicle-Detection) - Real-time detection using custom dataset
 - [Brain Tumor Detection](https://github.com/azeem-aslam-ch/brain-tumor-yolo) - Medical imaging model using YOLOv9
@@ -50,22 +38,33 @@ I aim to transform complex AI solutions into accessible tools that drive innovat
 
 ## 📊 GitHub Stats
 
-![Azeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azeem-aslam-ch&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azeem-aslam-ch&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeem-aslam-ch&layout=compact&theme=tokyonight&langs_count=10&custom_title=Most%20Used%20Languages" alt="Top Languages" width="49%"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azeem-aslam-ch&layout=compact&theme=radical&langs_count=10&custom_title=Most%20Used%20Languages%20(by%20Azeem))
-
-![GitHub Streak](https://streak-stats.demolab.com?user=azeem-aslam-ch&theme=radical&hide_border=false)
-
-![GitHub Calendar](https://github-readme-activity-graph.cyclic.app/graph?username=azeem-aslam-ch&theme=tokyo-night)
-
----
-
-## 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/azeemaslam1)](https://linkedin.com/in/azeemaslam1)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&link=mailto:azeem.aslam91@yahoo.com)](mailto:azeem.aslam91@yahoo.com)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/awaizadam1)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=azeem-aslam-ch&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=azeem-aslam-ch&theme=tokyo-night" alt="GitHub Contribution Graph" width="100%"/>
+</p>
 
 ---
 
-_"Pushing boundaries with intelligent vision-based systems and AI solutions."_
+## 🤝 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/azeemaslam1">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:azeem.aslam91@yahoo.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.kaggle.com/awaizadam1">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>"Pushing boundaries with intelligent vision-based systems and AI solutions."</em>
+</p>
