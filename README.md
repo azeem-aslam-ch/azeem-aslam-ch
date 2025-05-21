@@ -80,6 +80,16 @@
 
 ---
 
+## ✍️ Author
+
+**Azeem Aslam**  
+Freelancer | Scientific Writer | Research Collaborator  
+📧 [azeem.aslam91@yahoo.com](mailto:azeem.aslam91@yahoo.com)  
+🌐 [myportfolio-lilac-nine.vercel.app](https://myportfolio-lilac-nine.vercel.app/)
+
+
+---
+
 <p align="center">
   <em>"Pushing boundaries with intelligent vision-based systems and AI-powered solutions."</em>
 </p>
