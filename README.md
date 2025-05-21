@@ -61,8 +61,7 @@
 ## 📚 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeem-aslam-ch&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook" alt="Top Languages by Azeem Aslam" />
-</p>
+
 
 Here’s a visual overview of my proficiency in key technologies:
 
@@ -75,7 +74,8 @@ Here’s a visual overview of my proficiency in key technologies:
 | 💻 **JavaScript**     | █████████░░ 85% |
 
 
-
+ 
+</p>
 
 
 <!-- 
