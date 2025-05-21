@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=6000&pause=1500&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Azeem+Aslam;Computer+Vision+%26+Deep+Learning+Engineer" alt="Typing Animation" />
 </h1>
----
+
 <h4 align="center">Scientific Writer & Freelancer</h4>
 
 <p align="center">
@@ -84,10 +84,3 @@
   <em>"Pushing boundaries with intelligent vision-based systems and AI-powered solutions."</em>
 </p>
 
----
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="./dist/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
