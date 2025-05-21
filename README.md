@@ -54,30 +54,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=azeem-aslam-ch&theme=tokyo-night" alt="GitHub Contribution Graph" width="100%"/>
 </p>
 
-<h3>💻 Technical Skills</h3>
 
-<table>
-  <tr>
-    <td><b>🐍 Python</b></td>
-    <td><progress value="90" max="100" style="width: 300px;"></progress> 90%</td>
-  </tr>
-  <tr>
-    <td><b>📊 R</b></td>
-    <td><progress value="80" max="100" style="width: 300px;"></progress> 80%</td>
-  </tr>
-  <tr>
-    <td><b>🎨 CSS</b></td>
-    <td><progress value="75" max="100" style="width: 300px;"></progress> 75%</td>
-  </tr>
-  <tr>
-    <td><b>☕ Java</b></td>
-    <td><progress value="70" max="100" style="width: 300px;"></progress> 70%</td>
-  </tr>
-  <tr>
-    <td><b>🖥️ JavaScript</b></td>
-    <td><progress value="85" max="100" style="width: 300px;"></progress> 85%</td>
-  </tr>
-</table>
+
+## 💻 Technical Skills
+
+Here’s a visual overview of my proficiency in key technologies:
+
+| Language/Tool     | Proficiency         |
+|-------------------|---------------------|
+| 🐍 **Python**         | ██████████░ 90% |
+| 📊 **R**              | █████████░░ 80% |
+| 🎨 **CSS**            | ████████░░░ 75% |
+| ☕ **Java**            | ███████░░░░ 70% |
+| 💻 **JavaScript**     | █████████░░ 85% |
 
 
 
