@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=6000&pause=1500&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Azeem+Aslam;Computer+Vision+%26+Deep+Learning+Engineer" alt="Typing Animation" />
 </h1>
-
+---
 <h4 align="center">Scientific Writer & Freelancer</h4>
 
 <p align="center">
@@ -77,16 +77,6 @@
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 </p>
-
----
-
-## ✍️ Author
-
-**Azeem Aslam**  
-Freelancer | Scientific Writer | Research Collaborator  
-📧 [azeem.aslam91@yahoo.com](mailto:azeem.aslam91@yahoo.com)  
-🌐 [myportfolio-lilac-nine.vercel.app](https://myportfolio-lilac-nine.vercel.app/)
-
 
 ---
 
