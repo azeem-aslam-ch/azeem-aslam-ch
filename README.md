@@ -83,3 +83,11 @@
 <p align="center">
   <em>"Pushing boundaries with intelligent vision-based systems and AI-powered solutions."</em>
 </p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="./dist/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
