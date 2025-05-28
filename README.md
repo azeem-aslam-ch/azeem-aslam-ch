@@ -36,7 +36,7 @@
 
 ## 🌟 Highlight Projects
 
-- [Object Detection for Additive Manufacturing Defects Using YOLO](https://github.com/azeem-aslam-ch/AI-powered-defect-detection-) – Object Detection for Additive Manufacturing Defects. [Live Link](https://3dprintingdefectdetection.streamlit.app/)
+- [Object Detection for Additive Manufacturing Defects Using YOLO](https://github.com/azeem-aslam-ch/AI-powered-defect-detection-) – Object Detection for Additive Manufacturing Defects. [Streamlit Web Live Link](https://3dprintingdefectdetection.streamlit.app/)
 
 - [YOLOv8 Vehicle Classification](https://github.com/azeem-aslam-ch/Real-time-Vehicle-detection) – Real-time Vehicle detection using custom dataset
   
