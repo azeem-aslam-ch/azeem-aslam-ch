@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:azeem.aslam91@yahoo.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=yahoo"/>
   </a>
   <a href="https://www.kaggle.com/awaisaslam1">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
