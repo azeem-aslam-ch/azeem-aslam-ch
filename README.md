@@ -18,14 +18,14 @@
   </a>
 </p>
 
----
+
 
 ## 🎯 My Mission
 > Hi, I'm **Azeem Aslam**, a Computer Vision and Deep Learning Engineer.  
 > I specialize in solving real-world challenges using AI.  
 > My mission is to build intelligent systems that drive innovation in healthcare, manufacturing, and education through research, automation, and scalable deployment.
 
----
+
 
 ## 💻 Technical Stack
 <p align="center">
@@ -33,8 +33,6 @@
 
 </p>
 
-
----
 
 ## 🌟 Highlight Projects
 
@@ -66,7 +64,6 @@ A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycl
   
 4. [Industrial Object Detection](https://github.com/azeem-aslam-ch/CV-2024) – A deep learning–based object detection system 
 
----
 
 
 
@@ -90,11 +87,6 @@ A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycl
 
 
 
----
-
-
-
-
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -102,8 +94,6 @@ A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycl
 </p>
 
 
-
----
 
 <h1 align="center">🤝 Let's Connect </h1>
 <p align="center">
