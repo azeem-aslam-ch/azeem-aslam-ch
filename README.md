@@ -38,7 +38,7 @@
 
 - [Object Detection for Additive Manufacturing Defects Using YOLO](https://github.com/azeem-aslam-ch/AI-powered-defect-detection-) – Object Detection for Additive Manufacturing Defects. [Streamlit Link](https://3dprintingdefectdetection.streamlit.app/)
 
-- [YOLOv8 Vehicle Classification](https://github.com/azeem-aslam-ch/Real-time-Vehicle-detection) – Real-time Vehicle detection using custom dataset. [Streamlit Link](https://two-wheeler-vehicle-detection-app.onrender.com)
+- [YOLOv8 Vehicle Classification](https://github.com/azeem-aslam-ch/Real-time-Vehicle-detection) – Real-time Vehicle detection using custom dataset. [Streamlit Link](azeemaslam/vehicle-detector)
   
 - [Brain Tumor Detection](https://github.com/azeem-aslam-ch/Medical-imaging-with-YOLOv9-) – Medical imaging with YOLOv9
   
