@@ -32,6 +32,32 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,js,r,html,css,nextjs,pytorch,github,git,vercel,opencv,vscode,TensorFlow," />
 
 </p>
+## 💻 Technical Stack
+<hr/>
+
+<p align="center">
+  <!-- Existing tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Vercel_logo_black.svg" height="40" alt="Vercel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
+
+  <!-- Google Colab -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Google_Colaboratory_Logo.svg" height="40" alt="Google Colab"/>
+
+  <!-- YOLO (custom placeholder) -->
+  <img src="https://raw.githubusercontent.com/AzeemAslamDev/assets/main/yolo-icon.png" height="40" alt="YOLO"/>
+</p>
+
 
 
 ## 🌟 Highlight Projects
