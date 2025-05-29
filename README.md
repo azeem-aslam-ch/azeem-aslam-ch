@@ -48,11 +48,16 @@ A Streamlit-based application to detect defects in 3D-printed components using a
 
 
   
-2. [Vehicle Classification](https://github.com/azeem-aslam-ch/two-wheeler-vehicle-detection_app-) - The Vehicle Classification project is deployed on [Hugging Face Spaces](https://huggingface.co/spaces/azeemaslam/vehicle-detector), where you can:
+2. ### 🛵 Vehicle Classification using YOLOv8
 
-- Upload images or use your webcam
-- Detect motorcycles and scooters using a YOLOv8 model
-- Download the detection results
+A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycles and scooters using a custom YOLOv8 model.
+
+- 📤 Upload images or capture from your webcam  
+- 🔍 Detect and classify motorcycles, scooters, and bikes in real-time  
+- 📥 Download detection results with bounding boxes
+
+🚀 [Live App on Hugging Face](https://huggingface.co/spaces/azeemaslam/vehicle-detector)
+
 
 
 3. [Brain Tumor Detection](https://github.com/azeem-aslam-ch/Medical-imaging-with-YOLOv9-) – Medical imaging with YOLOv9
