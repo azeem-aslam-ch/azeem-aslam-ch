@@ -20,10 +20,12 @@
 
 
 
+
 ## 🎯 My Mission
 > Hi, I'm **Azeem Aslam**, a Computer Vision and Deep Learning Engineer.  
 > I specialize in solving real-world challenges using AI.  
 > My mission is to build intelligent systems that drive innovation in healthcare, manufacturing, and education through research, automation, and scalable deployment.
+
 
 
 
@@ -33,7 +35,6 @@
 
 </p>
 
-<hr/>
 
 
 
@@ -62,11 +63,10 @@ A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycl
 🚀 [Live App on Hugging Face](https://huggingface.co/spaces/azeemaslam/vehicle-detector)
 
 
-
 3. [Brain Tumor Detection](https://github.com/azeem-aslam-ch/Medical-imaging-with-YOLOv9-) – Medical imaging with YOLOv9
+   
   
-4. [Industrial Object Detection](https://github.com/azeem-aslam-ch/CV-2024) – A deep learning–based object detection system 
-
+5. [Industrial Object Detection](https://github.com/azeem-aslam-ch/CV-2024) – A deep learning–based object detection system 
 
 
 
@@ -80,6 +80,8 @@ A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycl
     alt="GitHub Trophies" 
   />
 </p>
+
+
 
 ## 📊 GitHub Stats
 
