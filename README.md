@@ -29,7 +29,7 @@
 
 ## 💻 Technical Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,r,html,css,nextjs,pytorch,github,git,kaggle,vercel,opencv,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,r,html,css,nextjs,pytorch,github,git,vercel,opencv,vscode,TensorFlow," />
 
 </p>
 
