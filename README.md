@@ -66,35 +66,20 @@ A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycl
 
 ---
 
+
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azeem-aslam-ch&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=azeem-aslam-ch&theme=tokyonight" alt="GitHub Streak" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeem-aslam-ch&layout=compact&theme=tokyonight" alt="Top Languages" height="200px"/>
+
 </div>
 
----
+
 
 ## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=azeem-aslam-ch&theme=tokyonight" alt="Contribution Graph"/>
-</div>
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azeem-aslam-ch&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=azeem-aslam-ch&theme=tokyonight" alt="GitHub Streak" height="200px"/>
-
-</div>
-
-
-
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=azeem-aslam-ch&theme=tokyo-night" alt="GitHub Contribution Graph" width="100%"/>
