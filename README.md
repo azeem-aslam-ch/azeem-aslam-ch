@@ -29,8 +29,17 @@
 
 ## 💻 Technical Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,r,html,css,react,nextjs,tailwind,opencv,pytorch,vercel,github,kaggle" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,r,html,css,nextjs,tailwind,opencv,pytorch,vercel,github,kaggle,opencv,git,vscode,TensorFlow,Streamlit" />
 </p>
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,html,css,js,react,nextjs,nodejs,git,github,vscode,linux" />
+</p>
+
 
 ---
 
@@ -95,47 +104,6 @@ A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycl
 </div>
 
 
-## 📊 GitHub Stats 2
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=azeem-aslam-ch&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats" 
-    width="98%" 
-    style="margin-bottom: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" 
-  />
-  
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=azeem-aslam-ch&theme=tokyonight" 
-    alt="GitHub Streak" 
-    width="98%" 
-    style="margin-bottom: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" 
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeem-aslam-ch&layout=compact&theme=tokyonight" 
-    alt="Top Languages" 
-    width="98%" 
-    style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" 
-  />
-</div>
-
-## 📊 GitHub Stats 3
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=azeem-aslam-ch&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats" 
-    width="98%" 
-    style="margin-bottom: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" 
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=azeem-aslam-ch&theme=tokyonight" 
-    alt="GitHub Streak" 
-    width="98%" 
-    style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" 
-  />
-</div>
 
 ---
 
@@ -164,14 +132,7 @@ A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycl
 
 ---
 
-## 👀 Visitor Count
 
-<p align="center">
-  <img 
-    src="https://visitor-badge.glitch.me/badge?page_id=azeem-aslam-ch.azeem-aslam-ch" 
-    alt="Visitor Count" 
-  />
-</p>
 
 
 ---
@@ -180,14 +141,6 @@ A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycl
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=azeem-aslam-ch&theme=tokyonight&no-bg=true&margin-w=15" />
-</p>
-
----
-
-## 🛠️ Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,html,css,js,react,nextjs,nodejs,git,github,vscode,linux" />
 </p>
 
 ---
