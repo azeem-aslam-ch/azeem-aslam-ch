@@ -36,20 +36,19 @@
 
 ## 🌟 Highlight Projects
 
-- [Object Detection for Additive Manufacturing Defects Using YOLO](https://github.com/azeem-aslam-ch/AI-powered-defect-detection-) – Object Detection for Additive Manufacturing Defects. [Streamlit Link](https://3dprintingdefectdetection.streamlit.app/)
+1. [Object Detection for Additive Manufacturing Defects Using YOLO](https://github.com/azeem-aslam-ch/AI-powered-defect-detection-) – Object Detection for Additive Manufacturing Defects. [Streamlit Link](https://3dprintingdefectdetection.streamlit.app/)
 
   
-- Vehicle Classification project is deployed on [Hugging Face Spaces](https://huggingface.co/spaces/azeemaslam/vehicle-detector), where you can:
+2. Vehicle Classification project is deployed on [Hugging Face Spaces](https://huggingface.co/spaces/azeemaslam/vehicle-detector), where you can:
 
 - Upload images or use your webcam
 - Detect motorcycles and scooters using a YOLOv8 model
 - Download the detection results
 
-[![Live on Hugging Face](https://img.shields.io/badge/Try%20It%20Now-HuggingFace-blue?logo=huggingface&style=for-the-badge)](https://huggingface.co/spaces/azeemaslam/vehicle-detector)
 
-- [Brain Tumor Detection](https://github.com/azeem-aslam-ch/Medical-imaging-with-YOLOv9-) – Medical imaging with YOLOv9
+3. [Brain Tumor Detection](https://github.com/azeem-aslam-ch/Medical-imaging-with-YOLOv9-) – Medical imaging with YOLOv9
   
-- [Industrial Object Detection](https://github.com/azeem-aslam-ch/CV-2024) – A deep learning–based object detection system 
+4. [Industrial Object Detection](https://github.com/azeem-aslam-ch/CV-2024) – A deep learning–based object detection system 
 
 ---
 
