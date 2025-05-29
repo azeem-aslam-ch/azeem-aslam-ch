@@ -32,19 +32,8 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,js,r,html,css,nextjs,pytorch,github,git,vercel,opencv,vscode,TensorFlow," />
 
 </p>
-## 💻 Technical Stack
+
 <hr/>
-
-
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Google_Colaboratory_Logo.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/yolo.png" height="40" alt="YOLO"/>
-</p>
-
-</p>
 
 
 
