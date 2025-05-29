@@ -69,8 +69,8 @@ A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azeem-aslam-ch&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%"/>
-  <img src="https://streak-stats.demolab.com?user=azeem-aslam-ch&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=azeem-aslam-ch&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%" height="30%"/>
+  <img src="https://streak-stats.demolab.com?user=azeem-aslam-ch&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="49%" height="30%"/>
 </p>
 
 <p align="center">
@@ -78,31 +78,6 @@ A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycl
 </p>
 
 
-## 📈 GitHub Stats & Language Usage
-
-<p align="center">
- ## 📚 Most Used Languages (Custom Overview)
-
-| Language     | Usage Level     |
-|--------------|-----------------|
-| 🐍 Python     | ██████████░ 90% |
-| 📊 R          | ████████░░ 80% |
-| 💻 JavaScript | ██████░░░░ 60% |
-| ☕ Java        | █████░░░░░ 50% |
-| 🌐 HTML/CSS   | █████░░░░░ 50% |
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeem-aslam-ch&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" width="48%" />
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azeem-aslam-ch&exclude_repo=repo1,repo2&layout=compact&theme=github_dark)
-
-</p>
-
-
-
-<!-- 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/azeem-aslam-ch/azeem-aslam-ch/main/assets/most-used-languages.png" alt="Most Used Languages" width="100%"/>
-</p> -->
 
 ---
 
