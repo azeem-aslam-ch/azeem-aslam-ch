@@ -82,7 +82,7 @@ A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycl
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azeem-aslam-ch&theme=tokyo-night" alt="GitHub Contribution Graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azeem-aslam-ch&theme=tokyo-night" alt="GitHub Contribution Graph" width="98%"/>
 </p>
 
 
