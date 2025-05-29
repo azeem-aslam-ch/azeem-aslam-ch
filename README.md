@@ -30,7 +30,7 @@
 ## 💻 Technical Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,r,html,css,nextjs,opencv,pytorch,vercel,github,git,kaggle,opencv,vscode,TensorFlow,Streamlit" />
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,html,css,js,react,nextjs,nodejs,git,github,vscode,linux" />
+
 </p>
 
 
@@ -78,24 +78,6 @@ A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycl
   <img src="https://github-readme-streak-stats.herokuapp.com?user=azeem-aslam-ch&theme=tokyonight" alt="GitHub Streak" width="98%"/>
 </div>
 
-## 📊 GitHub Stats 1
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=azeem-aslam-ch&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats" 
-    width="98%" 
-    style="margin-bottom: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" 
-  />
-  
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=azeem-aslam-ch&theme=tokyonight" 
-    alt="GitHub Streak" 
-    width="98%" 
-    style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" 
-  />
-</div>
-
 
 ---
 
@@ -110,18 +92,6 @@ A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycl
 
 ---
 
-
-
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azeem-aslam-ch&theme=tokyonight&no-bg=true&margin-w=15" />
-</p>
-
----
 
 
 
