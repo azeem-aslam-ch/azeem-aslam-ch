@@ -36,9 +36,9 @@
 
 ## 🌟 Highlight Projects
 
-1. ### 🏭 Object Detection for Additive Manufacturing Defects Using YOLO
+1. ### 🏭 Object Detection for Additive Manufacturing Defects CV
 
-A Streamlit-based application to detect defects in 3D-printed components using a YOLO object detection model.
+A Streamlit-based application to detect defects in 3D-printed components using a YOLO and CV object detection model.
 
 - 📤 Upload images 
 - 🔍 Detect defects such as **cracking**, **stringing**, **layer shifting**, and more
