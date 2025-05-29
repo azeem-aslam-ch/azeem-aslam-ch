@@ -36,10 +36,10 @@
 
 ## 🌟 Highlight Projects
 
-1. [Object Detection for Additive Manufacturing Defects Using YOLO](https://github.com/azeem-aslam-ch/AI-powered-defect-detection-) – Object Detection for Additive Manufacturing Defects. [Streamlit Link](https://3dprintingdefectdetection.streamlit.app/)
+1. [Object Detection for Additive Manufacturing Defects Using YOLO](https://github.com/azeem-aslam-ch/AI-powered-defect-detection-) – Object Detection for Additive Manufacturing Defects is deployed on. [Streamlit App](https://3dprintingdefectdetection.streamlit.app/)
 
   
-2. Vehicle Classification project is deployed on [Hugging Face Spaces](https://huggingface.co/spaces/azeemaslam/vehicle-detector), where you can:
+2. [Vehicle Classification](https://github.com/azeem-aslam-ch/two-wheeler-vehicle-detection_app-) - The Vehicle Classification project is deployed on [Hugging Face Spaces](https://huggingface.co/spaces/azeemaslam/vehicle-detector), where you can:
 
 - Upload images or use your webcam
 - Detect motorcycles and scooters using a YOLOv8 model
