@@ -66,7 +66,13 @@ A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycl
 3. [Brain Tumor Detection](https://github.com/azeem-aslam-ch/Medical-imaging-with-YOLOv9-) – Medical imaging with YOLOv9
    
   
-5. [Industrial Object Detection](https://github.com/azeem-aslam-ch/CV-2024) – A deep learning–based object detection system 
+5. [Industrial Object Detection](https://github.com/azeem-aslam-ch/industrial_object_detection-) – A deep learning–based Industrial object detection system
+   
+
+6.  [Active Phone user Detection](https://github.com/azeem-aslam-ch/phone_user_detection) – Mobile User Detection
+   
+
+7.  [Clinical TrialI nsights](https://github.com/azeem-aslam-ch/Clinical_Trial-Insights) – Clinical Trial Insights
 
 
 
