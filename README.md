@@ -16,6 +16,18 @@
   <a href="https://azeemaslam.com/" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"/>
   </a>
+
+<a href="https://www.azeemaslam.com"
+   class="inline-flex items-center gap-2 rounded-2xl bg-purple-600 px-6 py-3
+          text-white font-semibold shadow-[0_12px_28px_rgba(124,58,237,0.45)]
+          hover:scale-105 hover:bg-purple-500 transition">
+  <span>Say Hello</span>
+  <svg class="w-4 h-4" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+    <path d="M3 12l18-8-6 16-4-5-5-3z"/>
+  </svg>
+</a>
+
+  
 </p>
 
 
@@ -130,10 +142,12 @@ A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycl
   <a href="https://www.kaggle.com/awaisaslam1" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-  <a href="https://www.azeemaslam.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="https://www.azeemaslam.com" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/WEBSITE-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
+
 </p>
+
 
 
 ---
