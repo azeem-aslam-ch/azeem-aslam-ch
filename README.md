@@ -119,18 +119,22 @@ A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycl
 
 
 
-<h1 align="center">🤝 Let's Connect </h1>
+<h1 align="center">🤝 Let's Connect</h1>
 <p align="center">
-  <a href="https://linkedin.com/in/azeemaslam1">
+  <a href="https://linkedin.com/in/azeemaslam1" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:azeem.aslam91@yahoo.com">
     <img src="https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=yahoo"/>
   </a>
-  <a href="https://www.kaggle.com/awaisaslam1">
+  <a href="https://www.kaggle.com/awaisaslam1" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
+  <a href="https://www.azeemaslam.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
