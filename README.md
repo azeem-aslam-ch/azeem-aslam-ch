@@ -40,7 +40,20 @@
 
 ## 🌟 Highlight Projects
 
-1. ### 🏭 Object Detection for Additive Manufacturing Defects CV
+1. ### 🩺 Chest X-Ray Diagnostic Assistant (CV | DL)
+
+A Streamlit + PyTorch app for multi-disease chest X-ray classification with **Grad-CAM** visual explanations.
+
+- 📤 Upload PNG/JPG/**DICOM**
+- 🔎 Predict: **Normal**, **COVID**, **Lung Opacity**, **Viral Pneumonia**
+- 🔥 View **Grad-CAM** heatmaps for explainability
+
+🚀 [Live App on Streamlit](https://chest-xray-app-mfawfpdbjakjdr7bsotynh.streamlit.app/)
+📦 [GitHub Repository](https://github.com/azeem-aslam-ch/chest-xray-assignment)
+🧠 [Trained Model (.pth)](https://drive.google.com/file/d/1JLddmWmofxj8fIjVzbu1iZlF8XQt8B2Z/view?usp=drive_link)
+
+
+2. ### 🏭 Object Detection for Additive Manufacturing Defects CV
 
 A Streamlit-based application to detect defects in 3D-printed components using a YOLO and CV object detection model.
 
@@ -52,7 +65,7 @@ A Streamlit-based application to detect defects in 3D-printed components using a
 
 
   
-2. ### 🛵 Vehicle Classification using YOLOv8
+3. ### 🛵 Vehicle Classification using YOLOv8
 
 A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycles and scooters using a custom YOLOv8 model.
 
@@ -63,7 +76,7 @@ A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycl
 🚀 [Live App on Hugging Face](https://huggingface.co/spaces/azeemaslam/vehicle-detector)
 
 
-3. [Brain Tumor Detection](https://github.com/azeem-aslam-ch/Medical-imaging-with-YOLOv9-) – Medical imaging with YOLOv9
+4. [Brain Tumor Detection](https://github.com/azeem-aslam-ch/Medical-imaging-with-YOLOv9-) – Medical imaging with YOLOv9
    
   
 5. [Industrial Object Detection](https://github.com/azeem-aslam-ch/industrial_object_detection-) – A deep learning–based Industrial object detection system
