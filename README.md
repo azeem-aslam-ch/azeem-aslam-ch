@@ -55,7 +55,19 @@ A Streamlit + PyTorch app for multi-disease chest X-ray classification with **Gr
 🧠 [Trained Model (.pth)](https://drive.google.com/file/d/1JLddmWmofxj8fIjVzbu1iZlF8XQt8B2Z/view?usp=drive_link)
 
 
-2. ### 🏭 Object Detection for Additive Manufacturing Defects CV
+2. ### 🤖 Azeem Aslam AI Agent (NLP | Full-Stack | DevOps)
+
+A complete, production-grade AI Customer Support Chatbot Platform built with Python (FastAPI), modern JS/CSS, and the OpenAI API. Fully containerized with Docker and featuring comprehensive CI/CD workflows.
+
+- 💬 Custom AI persona powered by **OpenAI API**
+- ⚡ High-performance asynchronous backend with **FastAPI**
+- 🐳 Fully containerized with **Docker** and deployed via CI/CD
+
+🚀 [Live Demo on Netlify](https://azeembot.netlify.app/)
+📦 [GitHub Repository](https://github.com/azeem-aslam-ch/ai-chatbot)
+
+
+3. ### 🏭 Object Detection for Additive Manufacturing Defects CV
 
 A Streamlit-based application to detect defects in 3D-printed components using a YOLO and CV object detection model.
 
@@ -67,7 +79,7 @@ A Streamlit-based application to detect defects in 3D-printed components using a
 
 
   
-3. ### 🛵 Vehicle Classification using YOLOv8
+4. ### 🛵 Vehicle Classification using YOLOv8
 
 A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycles and scooters using a custom YOLOv8 model.
 
@@ -78,16 +90,16 @@ A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycl
 🚀 [Live App on Hugging Face](https://huggingface.co/spaces/azeemaslam/vehicle-detector)
 
 
-4. [Brain Tumor Detection](https://github.com/azeem-aslam-ch/Medical-imaging-with-YOLOv9-) – Medical imaging with YOLOv9
+5. [Brain Tumor Detection](https://github.com/azeem-aslam-ch/Medical-imaging-with-YOLOv9-) – Medical imaging with YOLOv9
    
   
-5. [Industrial Object Detection](https://github.com/azeem-aslam-ch/industrial_object_detection-) – A deep learning–based Industrial object detection system
+6. [Industrial Object Detection](https://github.com/azeem-aslam-ch/industrial_object_detection-) – A deep learning–based Industrial object detection system
    
 
-6.  [Active Phone user Detection](https://github.com/azeem-aslam-ch/phone_user_detection) – Mobile User Detection
+7.  [Active Phone user Detection](https://github.com/azeem-aslam-ch/phone_user_detection) – Mobile User Detection
    
 
-7.  [Clinical TrialI nsights](https://github.com/azeem-aslam-ch/Clinical_Trial-Insights) – Clinical Trial Insights
+8.  [Clinical TrialI nsights](https://github.com/azeem-aslam-ch/Clinical_Trial-Insights) – Clinical Trial Insights
 
 
 
