@@ -42,71 +42,27 @@ My current focus areas are:
 ## Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,r,html,css,nextjs,pytorch,tensorflow,opencv,sklearn,fastapi,docker,mongodb,github,git,vercel,vscode" alt="Technical stack"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,r,html,css,nextjs,pytorch,tensorflow,opencv,sklearn,fastapi,docker,mongodb,github,git,vercel,vscode&perline=10" alt="Technical stack icons"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Vision-YOLOv8%20%7C%20OpenCV-38bdf8?style=flat-square" alt="Computer Vision"/>
-  <img src="https://img.shields.io/badge/NLP-LLMs%20%7C%20AI%20Agents%20%7C%20FastAPI-06b6d4?style=flat-square" alt="NLP"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch%20%7C%20TensorFlow-f97316?style=flat-square" alt="Deep Learning"/>
-  <img src="https://img.shields.io/badge/Deployment-Streamlit%20%7C%20FastAPI%20%7C%20Docker-22c55e?style=flat-square" alt="Deployment"/>
-  <img src="https://img.shields.io/badge/Research-Reports%20%7C%20Validation%20%7C%20Metrics-8b5cf6?style=flat-square" alt="Research"/>
+  <img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge&logo=target&logoColor=00bfff" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/Ultralytics-111827?style=for-the-badge&logo=ultralytics&logoColor=white" alt="Ultralytics"/>
+  <img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=ff4b4b" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-111827?style=for-the-badge&logo=rabbitmq&logoColor=ff6600" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/Selenium-111827?style=for-the-badge&logo=selenium&logoColor=43b02a" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Playwright-111827?style=for-the-badge&logo=playwright&logoColor=2ead33" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/HuggingFace-111827?style=for-the-badge&logo=huggingface&logoColor=ffd21e" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Plotly-111827?style=for-the-badge&logo=plotly&logoColor=3f4f75" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Pytest-111827?style=for-the-badge&logo=pytest&logoColor=0a9edc" alt="Pytest"/>
 </p>
 
-### Core AI and Data Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-ML%20%7C%20Automation%20%7C%20APIs-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-Model%20Development-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-Random%20Forest%20%7C%20Metrics-f7931e?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-</p>
-
-### Computer Vision
-
-<p align="center">
-  <img src="https://img.shields.io/badge/YOLOv8-Detection%20%7C%20Segmentation-00bfff?style=for-the-badge" alt="YOLOv8"/>
-  <img src="https://img.shields.io/badge/Ultralytics-Instance%20Segmentation-111827?style=for-the-badge" alt="Ultralytics"/>
-  <img src="https://img.shields.io/badge/OpenCV-Image%20Processing-5c3ee8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Grad--CAM-Explainable%20AI-ef4444?style=for-the-badge" alt="Grad-CAM"/>
-  <img src="https://img.shields.io/badge/Roboflow-Dataset%20Annotation-6706ce?style=for-the-badge" alt="Roboflow"/>
-</p>
-
-### NLP and LLM Systems
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NLP-Multilingual%20Sentiment-06b6d4?style=for-the-badge" alt="NLP"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-ffd21e?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/XLM--RoBERTa-Sentiment%20Analysis-7c3aed?style=for-the-badge" alt="XLM-RoBERTa"/>
-  <img src="https://img.shields.io/badge/Ollama-Local%20LLM%20Insights-111827?style=for-the-badge" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/OpenAI-API%20%7C%20AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-</p>
-
-### Backend, Data, and Automation
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Streamlit-ML%20Apps-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/MongoDB-Async%20Storage-47a248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-Message%20Queues-ff6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-  <img src="https://img.shields.io/badge/Selenium-Web%20Scraping-43b02a?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Playwright-Browser%20Automation-2ead33?style=for-the-badge" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Pytest-Testing-0a9edc?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
-</p>
-
-### Reporting and Deployment
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-Scientific%20Charts-11557c?style=for-the-badge" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Plotly-Dashboards-3f4f75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/PDF%20Reports-fpdf2%20%7C%20ReportLab-b91c1c?style=for-the-badge" alt="PDF Reports"/>
-  <img src="https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Vercel-Frontend%20Deployments-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Streamlit%20Cloud-Live%20AI%20Apps-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Cloud"/>
-</p>
+**AI / CV:** YOLOv8, Ultralytics, OpenCV, Grad-CAM, Roboflow, PyTorch, TensorFlow, scikit-learn  
+**NLP / LLM:** Hugging Face Transformers, XLM-RoBERTa, multilingual sentiment analysis, OpenAI API, Ollama  
+**Backend / Data:** FastAPI, Streamlit, MongoDB, RabbitMQ, REST APIs, JWT authentication  
+**Automation / Deploy:** Selenium, Playwright, Docker, Pytest, GitHub, Vercel, Streamlit Cloud  
+**Reporting:** Matplotlib, Plotly, fpdf2, ReportLab, technical documentation
 
 ---
 
