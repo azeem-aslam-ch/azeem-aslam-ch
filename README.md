@@ -1,10 +1,15 @@
-<h1 align="center">Hi, I'm Azeem Aslam</h1>
+<h1 align="center">
+  <b>Hi, I'm Azeem Aslam</b>
+</h1>
 
-<h3 align="center">Computer Vision Engineer | Deep Learning Developer | Scientific Writer</h3>
+<h2 align="center">Computer Vision | NLP | Deep Learning | AI Automation</h2>
+
+<h3 align="center">Scientific AI Developer, Technical Writer, and Freelancer</h3>
 
 <p align="center">
-  I build practical AI systems for healthcare, veterinary science, manufacturing, and automation.
-  My work focuses on computer vision, medical imaging, segmentation, explainable AI, and deployable ML applications.
+  <b>I build practical AI systems for healthcare, veterinary science, manufacturing, automation, and NLP products.</b><br/>
+  My work focuses on computer vision, medical imaging, segmentation, natural language processing,
+  explainable AI, and deployable ML applications.
 </p>
 
 <p align="center">
@@ -26,6 +31,7 @@ I am a Computer Vision and Deep Learning Engineer with a strong interest in scie
 My current focus areas are:
 
 - Medical and veterinary imaging AI
+- Natural Language Processing, LLM apps, and AI agents
 - YOLO-based object detection and instance segmentation
 - Explainable AI for real-world decision support
 - Streamlit, FastAPI, Docker, and cloud deployment
@@ -41,6 +47,7 @@ My current focus areas are:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Vision-YOLOv8%20%7C%20OpenCV-38bdf8?style=flat-square" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/NLP-LLMs%20%7C%20AI%20Agents%20%7C%20FastAPI-06b6d4?style=flat-square" alt="NLP"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch%20%7C%20TensorFlow-f97316?style=flat-square" alt="Deep Learning"/>
   <img src="https://img.shields.io/badge/Deployment-Streamlit%20%7C%20FastAPI%20%7C%20Docker-22c55e?style=flat-square" alt="Deployment"/>
   <img src="https://img.shields.io/badge/Research-Reports%20%7C%20Validation%20%7C%20Metrics-8b5cf6?style=flat-square" alt="Research"/>
@@ -86,13 +93,15 @@ A Streamlit and PyTorch application for multi-disease chest X-ray classification
 
 ---
 
-### 3. Azeem Aslam AI Agent
+### 3. Azeem Aslam AI Agent - NLP Customer Support Platform
 
-A production-style AI customer support chatbot platform built with FastAPI, modern frontend code, Docker, and OpenAI API integration.
+A production-style NLP and LLM customer support chatbot platform built with FastAPI, modern frontend code, Docker, and OpenAI API integration.
 
 **Features**
 
 - Custom AI persona powered by the OpenAI API
+- Natural language understanding for support-style conversations
+- Prompt-engineered responses with a domain-specific assistant flow
 - Asynchronous FastAPI backend
 - Dockerized workflow with CI/CD-ready structure
 
@@ -131,6 +140,7 @@ A Hugging Face Spaces app for detecting and classifying two-wheeler vehicles suc
 | [Industrial Object Detection](https://github.com/azeem-aslam-ch/industrial_object_detection-) | Industrial computer vision |
 | [Active Phone User Detection](https://github.com/azeem-aslam-ch/phone_user_detection) | Mobile user detection |
 | [Clinical Trial Insights](https://github.com/azeem-aslam-ch/Clinical_Trial-Insights) | Clinical data insights |
+| [AI Chatbot](https://github.com/azeem-aslam-ch/ai-chatbot) | NLP, LLM application, FastAPI |
 
 ---
 
