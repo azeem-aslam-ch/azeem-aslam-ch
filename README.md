@@ -77,7 +77,25 @@ AI-based research system for predicting buffalo oocyte maturation from brightfie
 
 ---
 
-### 2. Chest X-Ray Diagnostic Assistant
+### 2. CSU Sentiment Analysis - Police Public Sentiment Intelligence
+
+Production backend system for the Chief Minister's Crime Surveillance Unit (CSU), Punjab. It monitors public sentiment about police services across social media, runs multilingual AI sentiment analysis, raises alerts, and serves analytics through a FastAPI backend.
+
+**Highlights**
+
+- Scrapes and processes public posts/comments from Facebook, X/Twitter, Instagram, TikTok, and YouTube
+- Multilingual NLP pipeline for English, Urdu, Roman Urdu, and Punjabi/Shahmukhi
+- XLM-RoBERTa transformer sentiment model plus rule-based analysis
+- Ollama LLM narrative insight generation with `qwen2.5:14b`
+- MongoDB storage, RabbitMQ queues, FastAPI REST API, alerts, dashboard analytics
+
+**Links**
+
+[Repository](https://github.com/azeem-aslam-ch/csu-sentiment-analysis)
+
+---
+
+### 3. Chest X-Ray Diagnostic Assistant
 
 A Streamlit and PyTorch application for multi-disease chest X-ray classification with Grad-CAM visual explanations.
 
@@ -93,7 +111,7 @@ A Streamlit and PyTorch application for multi-disease chest X-ray classification
 
 ---
 
-### 3. Azeem Aslam AI Agent - NLP Customer Support Platform
+### 4. Azeem Aslam AI Agent - NLP Customer Support Platform
 
 A production-style NLP and LLM customer support chatbot platform built with FastAPI, modern frontend code, Docker, and OpenAI API integration.
 
@@ -110,7 +128,7 @@ A production-style NLP and LLM customer support chatbot platform built with Fast
 
 ---
 
-### 4. Additive Manufacturing Defect Detection
+### 5. Additive Manufacturing Defect Detection
 
 A Streamlit computer-vision application for detecting defects in 3D-printed components using YOLO-based object detection.
 
@@ -124,7 +142,7 @@ A Streamlit computer-vision application for detecting defects in 3D-printed comp
 
 ---
 
-### 5. Vehicle Classification With YOLOv8
+### 6. Vehicle Classification With YOLOv8
 
 A Hugging Face Spaces app for detecting and classifying two-wheeler vehicles such as motorcycles, scooters, and bikes.
 
@@ -140,7 +158,6 @@ A Hugging Face Spaces app for detecting and classifying two-wheeler vehicles suc
 | [Industrial Object Detection](https://github.com/azeem-aslam-ch/industrial_object_detection-) | Industrial computer vision |
 | [Active Phone User Detection](https://github.com/azeem-aslam-ch/phone_user_detection) | Mobile user detection |
 | [Clinical Trial Insights](https://github.com/azeem-aslam-ch/Clinical_Trial-Insights) | Clinical data insights |
-| [AI Chatbot](https://github.com/azeem-aslam-ch/ai-chatbot) | NLP, LLM application, FastAPI |
 
 ---
 
