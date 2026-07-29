@@ -1,160 +1,179 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=6000&pause=1500&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Azeem+Aslam;Computer+Vision+%26+Deep+Learning+Engineer" alt="Typing Animation" />
-</h1>
+<h1 align="center">Hi, I'm Azeem Aslam</h1>
 
-<h4 align="center">Scientific Writer & Freelancer</h4>
+<h3 align="center">Computer Vision Engineer | Deep Learning Developer | Scientific Writer</h3>
 
 <p align="center">
-  <img src="https://github.com/azeem-aslam-ch/azeem-aslam-ch/blob/main/banner.gif" alt="Animated Banner" width="100%" />
+  I build practical AI systems for healthcare, veterinary science, manufacturing, and automation.
+  My work focuses on computer vision, medical imaging, segmentation, explainable AI, and deployable ML applications.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=azeem-aslam-ch&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=azeem-aslam-ch&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views"/>
   <a href="https://azeemaslam.com/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/My%20Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-
-  
+  <a href="https://linkedin.com/in/azeemaslam1" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
+---
 
+## About Me
 
+I am a Computer Vision and Deep Learning Engineer with a strong interest in scientific AI systems. I work across the full pipeline: dataset preparation, annotation strategy, model training, evaluation, deployment, and technical reporting.
 
-## 🎯 My Mission
-> Hi, I'm **Azeem Aslam**, a Computer Vision and Deep Learning Engineer.  
-> I specialize in solving real-world challenges using AI.  
-> My mission is to build intelligent systems that drive innovation in healthcare, manufacturing, and education through research, automation, and scalable deployment.
+My current focus areas are:
 
+- Medical and veterinary imaging AI
+- YOLO-based object detection and instance segmentation
+- Explainable AI for real-world decision support
+- Streamlit, FastAPI, Docker, and cloud deployment
+- Research documentation and professional technical reports
 
+---
 
-
-## 💻 Technical Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,r,html,css,nextjs,pytorch,github,git,vercel,opencv,vscode,TensorFlow," />
-
-</p>
-
-
-
-
-## 🌟 Highlight Projects
-
-1. ### 🩺 Chest X-Ray Diagnostic Assistant (CV | DL)
-
-A Streamlit + PyTorch app for multi-disease chest X-ray classification with **Grad-CAM** visual explanations.
-
-- 📤 Upload PNG/JPG/**DICOM**
-- 🔎 Predict: **Normal**, **COVID**, **Lung Opacity**, **Viral Pneumonia**
-- 🔥 View **Grad-CAM** heatmaps for explainability
-
-🚀 [Live App on Streamlit](https://chest-xray-app-mfawfpdbjakjdr7bsotynh.streamlit.app/)
-📦 [GitHub Repository](https://github.com/azeem-aslam-ch/chest-xray-assignment)
-🧠 [Trained Model (.pth)](https://drive.google.com/file/d/1JLddmWmofxj8fIjVzbu1iZlF8XQt8B2Z/view?usp=drive_link)
-
-
-2. ### 🤖 Azeem Aslam AI Agent (NLP | Full-Stack | DevOps)
-
-A complete, production-grade AI Customer Support Chatbot Platform built with Python (FastAPI), modern JS/CSS, and the OpenAI API. Fully containerized with Docker and featuring comprehensive CI/CD workflows.
-
-- 💬 Custom AI persona powered by **OpenAI API**
-- ⚡ High-performance asynchronous backend with **FastAPI**
-- 🐳 Fully containerized with **Docker** and deployed via CI/CD
-
-🚀 [Live Demo on Netlify](https://azeembot.netlify.app/)
-📦 [GitHub Repository](https://github.com/azeem-aslam-ch/ai-chatbot)
-
-
-3. ### 🏭 Object Detection for Additive Manufacturing Defects CV
-
-A Streamlit-based application to detect defects in 3D-printed components using a YOLO and CV object detection model.
-
-- 📤 Upload images 
-- 🔍 Detect defects such as **cracking**, **stringing**, **layer shifting**, and more
-- 📥 Download the detection results in **CSV format**
-
-🚀 [Live App on Streamlit](https://3dprintingdefectdetection.streamlit.app/)
-
-
-  
-4. ### 🛵 Vehicle Classification using YOLOv8
-
-A Hugging Face Spaces app that classifies two-wheeler vehicles such as motorcycles and scooters using a custom YOLOv8 model.
-
-- 📤 Upload images or capture from your webcam  
-- 🔍 Detect and classify motorcycles, scooters, and bikes in real-time  
-- 📥 Download detection results with bounding boxes
-
-🚀 [Live App on Hugging Face](https://huggingface.co/spaces/azeemaslam/vehicle-detector)
-
-
-5. [Brain Tumor Detection](https://github.com/azeem-aslam-ch/Medical-imaging-with-YOLOv9-) – Medical imaging with YOLOv9
-   
-  
-6. [Industrial Object Detection](https://github.com/azeem-aslam-ch/industrial_object_detection-) – A deep learning–based Industrial object detection system
-   
-
-7.  [Active Phone user Detection](https://github.com/azeem-aslam-ch/phone_user_detection) – Mobile User Detection
-   
-
-8.  [Clinical TrialI nsights](https://github.com/azeem-aslam-ch/Clinical_Trial-Insights) – Clinical Trial Insights
-
-
-
-
-
-## 🏆 GitHub Trophies
+## Technical Stack
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=azeem-aslam-ch&theme=tokyonight&no-frame=true&margin-w=15" 
-    alt="GitHub Trophies" 
-  />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,r,html,css,nextjs,pytorch,tensorflow,opencv,sklearn,fastapi,docker,github,git,vercel,vscode" alt="Technical stack"/>
 </p>
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azeem-aslam-ch&show_icons=true&theme=tokyonight" alt="GitHub Stats"  width="98%" style="margin-bottom: 60px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=azeem-aslam-ch&theme=tokyonight" alt="GitHub Streak" width="98%"/>
-</div>
-
-
-
-## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azeem-aslam-ch&theme=tokyo-night" alt="GitHub Contribution Graph" width="98%"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-YOLOv8%20%7C%20OpenCV-38bdf8?style=flat-square" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch%20%7C%20TensorFlow-f97316?style=flat-square" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Deployment-Streamlit%20%7C%20FastAPI%20%7C%20Docker-22c55e?style=flat-square" alt="Deployment"/>
+  <img src="https://img.shields.io/badge/Research-Reports%20%7C%20Validation%20%7C%20Metrics-8b5cf6?style=flat-square" alt="Research"/>
 </p>
 
+---
 
+## Featured Projects
 
-<h1 align="center">🤝 Let's Connect</h1>
+### 1. OvaPredict AI - Buffalo Oocyte Maturation Prediction
+
+AI-based research system for predicting buffalo oocyte maturation from brightfield microscopy images of cumulus-oocyte complexes.
+
+**Highlights**
+
+- YOLOv8s-seg instance segmentation for COC microscopy images
+- Direct classification pipeline: mature vs not mature
+- Research pipeline: YOLO segmentation plus Random Forest feature analysis
+- 52 morphological features from COC, oocyte, zona, and cumulus regions
+- Professional PDF reports with KPI cards, 3D-style charts, confusion matrices, and feature importance
+- Live Streamlit deployment for image upload and prediction
+
+**Links**
+
+[Live App](https://ova-predict-ai.streamlit.app/) |
+[Repository](https://github.com/azeem-aslam-ch/ova-predict-ai)
+
+---
+
+### 2. Chest X-Ray Diagnostic Assistant
+
+A Streamlit and PyTorch application for multi-disease chest X-ray classification with Grad-CAM visual explanations.
+
+**Features**
+
+- Upload PNG, JPG, or DICOM images
+- Predict Normal, COVID, Lung Opacity, or Viral Pneumonia
+- Generate Grad-CAM heatmaps for explainability
+
+[Live App](https://chest-xray-app-mfawfpdbjakjdr7bsotynh.streamlit.app/) |
+[Repository](https://github.com/azeem-aslam-ch/chest-xray-assignment) |
+[Trained Model](https://drive.google.com/file/d/1JLddmWmofxj8fIjVzbu1iZlF8XQt8B2Z/view?usp=drive_link)
+
+---
+
+### 3. Azeem Aslam AI Agent
+
+A production-style AI customer support chatbot platform built with FastAPI, modern frontend code, Docker, and OpenAI API integration.
+
+**Features**
+
+- Custom AI persona powered by the OpenAI API
+- Asynchronous FastAPI backend
+- Dockerized workflow with CI/CD-ready structure
+
+[Live Demo](https://azeembot.netlify.app/) |
+[Repository](https://github.com/azeem-aslam-ch/ai-chatbot)
+
+---
+
+### 4. Additive Manufacturing Defect Detection
+
+A Streamlit computer-vision application for detecting defects in 3D-printed components using YOLO-based object detection.
+
+**Features**
+
+- Detect cracking, stringing, layer shifting, and related defects
+- Upload images and inspect model detections
+- Export detection results for analysis
+
+[Live App](https://3dprintingdefectdetection.streamlit.app/)
+
+---
+
+### 5. Vehicle Classification With YOLOv8
+
+A Hugging Face Spaces app for detecting and classifying two-wheeler vehicles such as motorcycles, scooters, and bikes.
+
+[Live App](https://huggingface.co/spaces/azeemaslam/vehicle-detector)
+
+---
+
+## More Projects
+
+| Project | Area |
+|--------|------|
+| [Brain Tumor Detection](https://github.com/azeem-aslam-ch/Medical-imaging-with-YOLOv9-) | Medical imaging with YOLOv9 |
+| [Industrial Object Detection](https://github.com/azeem-aslam-ch/industrial_object_detection-) | Industrial computer vision |
+| [Active Phone User Detection](https://github.com/azeem-aslam-ch/phone_user_detection) | Mobile user detection |
+| [Clinical Trial Insights](https://github.com/azeem-aslam-ch/Clinical_Trial-Insights) | Clinical data insights |
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=azeem-aslam-ch&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azeem-aslam-ch&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=azeem-aslam-ch&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azeem-aslam-ch&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" width="98%"/>
+</p>
+
+---
+
+## Let's Connect
+
 <p align="center">
   <a href="https://linkedin.com/in/azeemaslam1" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-azeemaslam1-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:azeem.aslam91@yahoo.com">
-    <img src="https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=yahoo"/>
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=yahoo&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.kaggle.com/awaisaslam1" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kaggle-awaisaslam1-20beff?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
   <a href="https://www.azeemaslam.com" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/WEBSITE-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-azeemaslam.com-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
-
 </p>
-
-
 
 ---
 
 <p align="center">
-  <em>"Pushing boundaries with intelligent vision-based systems and AI-powered solutions."</em>
+  <em>Pushing boundaries with intelligent vision-based systems and AI-powered solutions.</em>
 </p>
-
