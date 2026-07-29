@@ -45,19 +45,6 @@ My current focus areas are:
   <img src="https://skillicons.dev/icons?i=python,cpp,js,r,html,css,nextjs,pytorch,tensorflow,opencv,sklearn,fastapi,docker,mongodb,github,git,vercel,vscode&perline=10" alt="Technical stack icons"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge&logo=target&logoColor=00bfff" alt="YOLOv8"/>
-  <img src="https://img.shields.io/badge/Ultralytics-111827?style=for-the-badge&logo=ultralytics&logoColor=white" alt="Ultralytics"/>
-  <img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=ff4b4b" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-111827?style=for-the-badge&logo=rabbitmq&logoColor=ff6600" alt="RabbitMQ"/>
-  <img src="https://img.shields.io/badge/Selenium-111827?style=for-the-badge&logo=selenium&logoColor=43b02a" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Playwright-111827?style=for-the-badge&logo=playwright&logoColor=2ead33" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/HuggingFace-111827?style=for-the-badge&logo=huggingface&logoColor=ffd21e" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Plotly-111827?style=for-the-badge&logo=plotly&logoColor=3f4f75" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/Pytest-111827?style=for-the-badge&logo=pytest&logoColor=0a9edc" alt="Pytest"/>
-</p>
-
 **AI / CV:** YOLOv8, Ultralytics, OpenCV, Grad-CAM, Roboflow, PyTorch, TensorFlow, scikit-learn  
 **NLP / LLM:** Hugging Face Transformers, XLM-RoBERTa, multilingual sentiment analysis, OpenAI API, Ollama  
 **Backend / Data:** FastAPI, Streamlit, MongoDB, RabbitMQ, REST APIs, JWT authentication  
