@@ -6,11 +6,11 @@
 
 <h3 align="center">Scientific AI Developer, Technical Writer, and Freelancer</h3>
 
-<p align="center">
+<h3 align="center">
   <b>I build practical AI systems for healthcare, veterinary science, manufacturing, automation, and NLP products.</b><br/>
   My work focuses on computer vision, medical imaging, segmentation, natural language processing,
   explainable AI, and deployable ML applications.
-</p>
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=azeem-aslam-ch&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views"/>
@@ -26,16 +26,16 @@
 
 <h1>About Me</h1>
 
-I am a Computer Vision and Deep Learning Engineer with a strong interest in scientific AI systems. I work across the full pipeline: dataset preparation, annotation strategy, model training, evaluation, deployment, and technical reporting.
+<h3>I am a Computer Vision and Deep Learning Engineer with a strong interest in scientific AI systems. I work across the full pipeline: dataset preparation, annotation strategy, model training, evaluation, deployment, and technical reporting.</h3>
 
-My current focus areas are:
+<h3>My current focus areas are:</h3>
 
-- Medical and veterinary imaging AI
-- Natural Language Processing, LLM apps, and AI agents
-- YOLO-based object detection and instance segmentation
-- Explainable AI for real-world decision support
-- Streamlit, FastAPI, Docker, and cloud deployment
-- Research documentation and professional technical reports
+<h3>- Medical and veterinary imaging AI</h3>
+<h3>- Natural Language Processing, LLM apps, and AI agents</h3>
+<h3>- YOLO-based object detection and instance segmentation</h3>
+<h3>- Explainable AI for real-world decision support</h3>
+<h3>- Streamlit, FastAPI, Docker, and cloud deployment</h3>
+<h3>- Research documentation and professional technical reports</h3>
 
 ---
 
@@ -59,105 +59,99 @@ My current focus areas are:
 
 <h2>1. OvaPredict AI - Buffalo Oocyte Maturation Prediction</h2>
 
-AI-based research system for predicting buffalo oocyte maturation from brightfield microscopy images of cumulus-oocyte complexes.
+<h3>AI-based research system for predicting buffalo oocyte maturation from brightfield microscopy images of cumulus-oocyte complexes.</h3>
 
-**Highlights**
+<h3>Highlights</h3>
 
-- YOLOv8s-seg instance segmentation for COC microscopy images
-- Direct classification pipeline: mature vs not mature
-- Research pipeline: YOLO segmentation plus Random Forest feature analysis
-- 52 morphological features from COC, oocyte, zona, and cumulus regions
-- Professional PDF reports with KPI cards, 3D-style charts, confusion matrices, and feature importance
-- Live Streamlit deployment for image upload and prediction
+<h3>- YOLOv8s-seg instance segmentation for COC microscopy images</h3>
+<h3>- Direct classification pipeline: mature vs not mature</h3>
+<h3>- Research pipeline: YOLO segmentation plus Random Forest feature analysis</h3>
+<h3>- 52 morphological features from COC, oocyte, zona, and cumulus regions</h3>
+<h3>- Professional PDF reports with KPI cards, 3D-style charts, confusion matrices, and feature importance</h3>
+<h3>- Live Streamlit deployment for image upload and prediction</h3>
 
-**Links**
+<h3>Links</h3>
 
-[Live App](https://ova-predict-ai.streamlit.app/) |
-[Repository](https://github.com/azeem-aslam-ch/ova-predict-ai)
+<h3><a href="https://ova-predict-ai.streamlit.app/">Live App</a> | <a href="https://github.com/azeem-aslam-ch/ova-predict-ai">Repository</a></h3>
 
 ---
 
 <h2>2. CSU Sentiment Analysis - Police Public Sentiment Intelligence</h2>
 
-Production backend system for the Chief Minister's Crime Surveillance Unit (CSU), Punjab. It monitors public sentiment about police services across social media, runs multilingual AI sentiment analysis, raises alerts, and serves analytics through a FastAPI backend.
+<h3>Production backend system for the Chief Minister's Crime Surveillance Unit (CSU), Punjab. It monitors public sentiment about police services across social media, runs multilingual AI sentiment analysis, raises alerts, and serves analytics through a FastAPI backend.</h3>
 
-**Highlights**
+<h3>Highlights</h3>
 
-- Scrapes and processes public posts/comments from Facebook, X/Twitter, Instagram, TikTok, and YouTube
-- Multilingual NLP pipeline for English, Urdu, Roman Urdu, and Punjabi/Shahmukhi
-- XLM-RoBERTa transformer sentiment model plus rule-based analysis
-- Ollama LLM narrative insight generation with `qwen2.5:14b`
-- MongoDB storage, RabbitMQ queues, FastAPI REST API, alerts, dashboard analytics
+<h3>- Scrapes and processes public posts/comments from Facebook, X/Twitter, Instagram, TikTok, and YouTube</h3>
+<h3>- Multilingual NLP pipeline for English, Urdu, Roman Urdu, and Punjabi/Shahmukhi</h3>
+<h3>- XLM-RoBERTa transformer sentiment model plus rule-based analysis</h3>
+<h3>- Ollama LLM narrative insight generation with qwen2.5:14b</h3>
+<h3>- MongoDB storage, RabbitMQ queues, FastAPI REST API, alerts, dashboard analytics</h3>
 
-**Links**
+<h3>Links</h3>
 
-[Repository](https://github.com/azeem-aslam-ch/csu-sentiment-analysis)
+<h3><a href="https://github.com/azeem-aslam-ch/csu-sentiment-analysis">Repository</a></h3>
 
 ---
 
 <h2>3. Chest X-Ray Diagnostic Assistant</h2>
 
-A Streamlit and PyTorch application for multi-disease chest X-ray classification with Grad-CAM visual explanations.
+<h3>A Streamlit and PyTorch application for multi-disease chest X-ray classification with Grad-CAM visual explanations.</h3>
 
-**Features**
+<h3>Features</h3>
 
-- Upload PNG, JPG, or DICOM images
-- Predict Normal, COVID, Lung Opacity, or Viral Pneumonia
-- Generate Grad-CAM heatmaps for explainability
+<h3>- Upload PNG, JPG, or DICOM images</h3>
+<h3>- Predict Normal, COVID, Lung Opacity, or Viral Pneumonia</h3>
+<h3>- Generate Grad-CAM heatmaps for explainability</h3>
 
-[Live App](https://chest-xray-app-mfawfpdbjakjdr7bsotynh.streamlit.app/) |
-[Repository](https://github.com/azeem-aslam-ch/chest-xray-assignment) |
-[Trained Model](https://drive.google.com/file/d/1JLddmWmofxj8fIjVzbu1iZlF8XQt8B2Z/view?usp=drive_link)
+<h3><a href="https://chest-xray-app-mfawfpdbjakjdr7bsotynh.streamlit.app/">Live App</a> | <a href="https://github.com/azeem-aslam-ch/chest-xray-assignment">Repository</a> | <a href="https://drive.google.com/file/d/1JLddmWmofxj8fIjVzbu1iZlF8XQt8B2Z/view?usp=drive_link">Trained Model</a></h3>
 
 ---
 
 <h2>4. Azeem Aslam AI Agent - NLP Customer Support Platform</h2>
 
-A production-style NLP and LLM customer support chatbot platform built with FastAPI, modern frontend code, Docker, and OpenAI API integration.
+<h3>A production-style NLP and LLM customer support chatbot platform built with FastAPI, modern frontend code, Docker, and OpenAI API integration.</h3>
 
-**Features**
+<h3>Features</h3>
 
-- Custom AI persona powered by the OpenAI API
-- Natural language understanding for support-style conversations
-- Prompt-engineered responses with a domain-specific assistant flow
-- Asynchronous FastAPI backend
-- Dockerized workflow with CI/CD-ready structure
+<h3>- Custom AI persona powered by the OpenAI API</h3>
+<h3>- Natural language understanding for support-style conversations</h3>
+<h3>- Prompt-engineered responses with a domain-specific assistant flow</h3>
+<h3>- Asynchronous FastAPI backend</h3>
+<h3>- Dockerized workflow with CI/CD-ready structure</h3>
 
-[Live Demo](https://azeembot.netlify.app/) |
-[Repository](https://github.com/azeem-aslam-ch/ai-chatbot)
+<h3><a href="https://azeembot.netlify.app/">Live Demo</a> | <a href="https://github.com/azeem-aslam-ch/ai-chatbot">Repository</a></h3>
 
 ---
 
 <h2>5. Additive Manufacturing Defect Detection</h2>
 
-A Streamlit computer-vision application for detecting defects in 3D-printed components using YOLO-based object detection.
+<h3>A Streamlit computer-vision application for detecting defects in 3D-printed components using YOLO-based object detection.</h3>
 
-**Features**
+<h3>Features</h3>
 
-- Detect cracking, stringing, layer shifting, and related defects
-- Upload images and inspect model detections
-- Export detection results for analysis
+<h3>- Detect cracking, stringing, layer shifting, and related defects</h3>
+<h3>- Upload images and inspect model detections</h3>
+<h3>- Export detection results for analysis</h3>
 
-[Live App](https://3dprintingdefectdetection.streamlit.app/)
+<h3><a href="https://3dprintingdefectdetection.streamlit.app/">Live App</a></h3>
 
 ---
 
 <h2>6. Vehicle Classification With YOLOv8</h2>
 
-A Hugging Face Spaces app for detecting and classifying two-wheeler vehicles such as motorcycles, scooters, and bikes.
+<h3>A Hugging Face Spaces app for detecting and classifying two-wheeler vehicles such as motorcycles, scooters, and bikes.</h3>
 
-[Live App](https://huggingface.co/spaces/azeemaslam/vehicle-detector)
+<h3><a href="https://huggingface.co/spaces/azeemaslam/vehicle-detector">Live App</a></h3>
 
 ---
 
 <h1>More Projects</h1>
 
-| Project | Area |
-|--------|------|
-| [Brain Tumor Detection](https://github.com/azeem-aslam-ch/Medical-imaging-with-YOLOv9-) | Medical imaging with YOLOv9 |
-| [Industrial Object Detection](https://github.com/azeem-aslam-ch/industrial_object_detection-) | Industrial computer vision |
-| [Active Phone User Detection](https://github.com/azeem-aslam-ch/phone_user_detection) | Mobile user detection |
-| [Clinical Trial Insights](https://github.com/azeem-aslam-ch/Clinical_Trial-Insights) | Clinical data insights |
+<h3><a href="https://github.com/azeem-aslam-ch/Medical-imaging-with-YOLOv9-">Brain Tumor Detection</a> - Medical imaging with YOLOv9</h3>
+<h3><a href="https://github.com/azeem-aslam-ch/industrial_object_detection-">Industrial Object Detection</a> - Industrial computer vision</h3>
+<h3><a href="https://github.com/azeem-aslam-ch/phone_user_detection">Active Phone User Detection</a> - Mobile user detection</h3>
+<h3><a href="https://github.com/azeem-aslam-ch/Clinical_Trial-Insights">Clinical Trial Insights</a> - Clinical data insights</h3>
 
 ---
 
@@ -201,6 +195,4 @@ A Hugging Face Spaces app for detecting and classifying two-wheeler vehicles suc
 
 ---
 
-<p align="center">
-  <em>Pushing boundaries with intelligent vision-based systems and AI-powered solutions.</em>
-</p>
+<h3 align="center"><em>Pushing boundaries with intelligent vision-based systems and AI-powered solutions.</em></h3>
