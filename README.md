@@ -24,7 +24,7 @@
 
 ---
 
-## About Me
+<h1>About Me</h1>
 
 I am a Computer Vision and Deep Learning Engineer with a strong interest in scientific AI systems. I work across the full pipeline: dataset preparation, annotation strategy, model training, evaluation, deployment, and technical reporting.
 
@@ -39,7 +39,7 @@ My current focus areas are:
 
 ---
 
-## Technical Stack
+<h1>Technical Stack</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,r,html,css,nextjs,pytorch,tensorflow,opencv,sklearn,fastapi,docker,mongodb,github,git,vercel,vscode&perline=10" alt="Technical stack icons"/>
@@ -55,9 +55,9 @@ My current focus areas are:
 
 ---
 
-## Featured Projects
+<h1>Featured Projects</h1>
 
-### 1. OvaPredict AI - Buffalo Oocyte Maturation Prediction
+<h2>1. OvaPredict AI - Buffalo Oocyte Maturation Prediction</h2>
 
 AI-based research system for predicting buffalo oocyte maturation from brightfield microscopy images of cumulus-oocyte complexes.
 
@@ -77,7 +77,7 @@ AI-based research system for predicting buffalo oocyte maturation from brightfie
 
 ---
 
-### 2. CSU Sentiment Analysis - Police Public Sentiment Intelligence
+<h2>2. CSU Sentiment Analysis - Police Public Sentiment Intelligence</h2>
 
 Production backend system for the Chief Minister's Crime Surveillance Unit (CSU), Punjab. It monitors public sentiment about police services across social media, runs multilingual AI sentiment analysis, raises alerts, and serves analytics through a FastAPI backend.
 
@@ -95,7 +95,7 @@ Production backend system for the Chief Minister's Crime Surveillance Unit (CSU)
 
 ---
 
-### 3. Chest X-Ray Diagnostic Assistant
+<h2>3. Chest X-Ray Diagnostic Assistant</h2>
 
 A Streamlit and PyTorch application for multi-disease chest X-ray classification with Grad-CAM visual explanations.
 
@@ -111,7 +111,7 @@ A Streamlit and PyTorch application for multi-disease chest X-ray classification
 
 ---
 
-### 4. Azeem Aslam AI Agent - NLP Customer Support Platform
+<h2>4. Azeem Aslam AI Agent - NLP Customer Support Platform</h2>
 
 A production-style NLP and LLM customer support chatbot platform built with FastAPI, modern frontend code, Docker, and OpenAI API integration.
 
@@ -128,7 +128,7 @@ A production-style NLP and LLM customer support chatbot platform built with Fast
 
 ---
 
-### 5. Additive Manufacturing Defect Detection
+<h2>5. Additive Manufacturing Defect Detection</h2>
 
 A Streamlit computer-vision application for detecting defects in 3D-printed components using YOLO-based object detection.
 
@@ -142,7 +142,7 @@ A Streamlit computer-vision application for detecting defects in 3D-printed comp
 
 ---
 
-### 6. Vehicle Classification With YOLOv8
+<h2>6. Vehicle Classification With YOLOv8</h2>
 
 A Hugging Face Spaces app for detecting and classifying two-wheeler vehicles such as motorcycles, scooters, and bikes.
 
@@ -150,7 +150,7 @@ A Hugging Face Spaces app for detecting and classifying two-wheeler vehicles suc
 
 ---
 
-## More Projects
+<h1>More Projects</h1>
 
 | Project | Area |
 |--------|------|
@@ -161,7 +161,7 @@ A Hugging Face Spaces app for detecting and classifying two-wheeler vehicles suc
 
 ---
 
-## GitHub Trophies
+<h1>GitHub Trophies</h1>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=azeem-aslam-ch&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
@@ -169,7 +169,7 @@ A Hugging Face Spaces app for detecting and classifying two-wheeler vehicles suc
 
 ---
 
-## GitHub Stats
+<h1>GitHub Stats</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azeem-aslam-ch&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%"/>
@@ -182,7 +182,7 @@ A Hugging Face Spaces app for detecting and classifying two-wheeler vehicles suc
 
 ---
 
-## Let's Connect
+<h1>Let's Connect</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/azeemaslam1" target="_blank" rel="noopener noreferrer">
