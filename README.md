@@ -166,8 +166,7 @@
 <h1>GitHub Stats</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azeem-aslam-ch&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=azeem-aslam-ch&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=azeem-aslam-ch&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
 </p>
 
 <p align="center">
