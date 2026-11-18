@@ -57,7 +57,22 @@
 
 <h1>Featured Projects</h1>
 
-<h2>1. OvaPredict AI - Buffalo Oocyte Maturation Prediction</h2>
+<h2>1. Fall Detection for Patient Safety - MSc Dissertation</h2>
+
+<h3>Real-time fall detection dashboard for elderly and patient care, built for my MSc dissertation at the University of Salford.</h3>
+
+<h3>Highlights</h3>
+
+<h3>- YOLO-Pose pipeline for person detection and 17-point skeletal tracking in a single pass</h3>
+<h3>- Heuristic fall scoring from vertical velocity, posture angle, and aspect ratio</h3>
+<h3>- Weighted 0-100% fall probability with live alerts</h3>
+<h3>- Comparative analysis of YOLO-Pose and MediaPipe approaches</h3>
+
+<h3><a href="https://falldetectionpipeline.streamlit.app/">Live App</a> | <a href="https://github.com/azeem-aslam-ch/falldetectionpipeline">Repository</a></h3>
+
+---
+
+<h2>2. OvaPredict AI - Buffalo Oocyte Maturation Prediction</h2>
 
 <h3>AI-based research system for predicting buffalo oocyte maturation from brightfield microscopy images of cumulus-oocyte complexes.</h3>
 
@@ -67,34 +82,44 @@
 <h3>- Direct classification pipeline: mature vs not mature</h3>
 <h3>- Research pipeline: YOLO segmentation plus Random Forest feature analysis</h3>
 <h3>- 52 morphological features from COC, oocyte, zona, and cumulus regions</h3>
-<h3>- Professional PDF reports with KPI cards, 3D-style charts, confusion matrices, and feature importance</h3>
+<h3>- Professional PDF reports with KPI cards, charts, confusion matrices, and feature importance</h3>
 <h3>- Live Streamlit deployment for image upload and prediction</h3>
 
-<h3>Links</h3>
-
-<h3><a href="https://ova-predict-ai.streamlit.app/">Live App</a> | <a href="https://github.com/azeem-aslam-ch/ova-predict-ai">Repository</a></h3>
+<h3><a href="https://ova-predict-ai.streamlit.app/">Live App</a> | Source code private (research project)</h3>
 
 ---
 
-<h2>2. CSU Sentiment Analysis - Police Public Sentiment Intelligence</h2>
+<h2>3. CSU Sentiment Analysis - Police Public Sentiment Intelligence</h2>
 
 <h3>Production backend system for the Chief Minister's Crime Surveillance Unit (CSU), Punjab. It monitors public sentiment about police services across social media, runs multilingual AI sentiment analysis, raises alerts, and serves analytics through a FastAPI backend.</h3>
 
 <h3>Highlights</h3>
 
-<h3>- Scrapes and processes public posts/comments from Facebook, X/Twitter, Instagram, TikTok, and YouTube</h3>
+<h3>- Processes public posts/comments from Facebook, X/Twitter, Instagram, TikTok, and YouTube</h3>
 <h3>- Multilingual NLP pipeline for English, Urdu, Roman Urdu, and Punjabi/Shahmukhi</h3>
 <h3>- XLM-RoBERTa transformer sentiment model plus rule-based analysis</h3>
-<h3>- Ollama LLM narrative insight generation with qwen2.5:14b</h3>
+<h3>- Local LLM (Ollama) narrative insight generation</h3>
 <h3>- MongoDB storage, RabbitMQ queues, FastAPI REST API, alerts, dashboard analytics</h3>
 
-<h3>Links</h3>
-
-<h3><a href="https://github.com/azeem-aslam-ch/csu-sentiment-analysis">Repository</a></h3>
+<h3>Source code private (government client project)</h3>
 
 ---
 
-<h2>3. Chest X-Ray Diagnostic Assistant</h2>
+<h2>4. Car Damage Segmentation and Cost Estimator</h2>
+
+<h3>Detects, segments, and cost-estimates car body damage from photos.</h3>
+
+<h3>Highlights</h3>
+
+<h3>- YOLOv8-seg instance segmentation for dent, scratch, peeled paint, and broken parts</h3>
+<h3>- Damage area measurement turned into a repair cost estimate</h3>
+<h3>- FastAPI backend, Streamlit frontend, Docker Compose deployment</h3>
+
+<h3><a href="https://github.com/azeem-aslam-ch/Car-Damage-Seg-Estimator">Repository</a></h3>
+
+---
+
+<h2>5. Chest X-Ray Diagnostic Assistant</h2>
 
 <h3>A Streamlit and PyTorch application for multi-disease chest X-ray classification with Grad-CAM visual explanations.</h3>
 
@@ -108,58 +133,38 @@
 
 ---
 
-<h2>4. Azeem Aslam AI Agent - NLP Customer Support Platform</h2>
+<h2>6. VisionOps - Real-Time Vision Platform</h2>
 
-<h3>A production-style NLP and LLM customer support chatbot platform built with FastAPI, modern frontend code, Docker, and OpenAI API integration.</h3>
+<h3>A modular object detection and tracking platform for surveillance and industrial analytics, with separate inference (data plane) and API (control plane) services connected through Redis.</h3>
+
+<h3><a href="https://github.com/azeem-aslam-ch/Project-1-Real-Time-Vision-System">Repository</a></h3>
+
+---
+
+<h2>7. Azeem Aslam AI Agent - NLP Customer Support Platform</h2>
+
+<h3>A production-style LLM customer support chatbot built with FastAPI, a modern frontend, Docker, Nginx, and the OpenAI API.</h3>
 
 <h3>Features</h3>
 
 <h3>- Custom AI persona powered by the OpenAI API</h3>
-<h3>- Natural language understanding for support-style conversations</h3>
 <h3>- Prompt-engineered responses with a domain-specific assistant flow</h3>
-<h3>- Asynchronous FastAPI backend</h3>
-<h3>- Dockerized workflow with CI/CD-ready structure</h3>
+<h3>- Asynchronous FastAPI backend with Pydantic validation</h3>
+<h3>- Dockerized multi-container workflow</h3>
 
 <h3><a href="https://azeembot.netlify.app/">Live Demo</a> | <a href="https://github.com/azeem-aslam-ch/ai-chatbot">Repository</a></h3>
 
 ---
 
-<h2>5. Additive Manufacturing Defect Detection</h2>
-
-<h3>A Streamlit computer-vision application for detecting defects in 3D-printed components using YOLO-based object detection.</h3>
-
-<h3>Features</h3>
-
-<h3>- Detect cracking, stringing, layer shifting, and related defects</h3>
-<h3>- Upload images and inspect model detections</h3>
-<h3>- Export detection results for analysis</h3>
-
-<h3><a href="https://3dprintingdefectdetection.streamlit.app/">Live App</a></h3>
-
----
-
-<h2>6. Vehicle Classification With YOLOv8</h2>
-
-<h3>A Hugging Face Spaces app for detecting and classifying two-wheeler vehicles such as motorcycles, scooters, and bikes.</h3>
-
-<h3><a href="https://huggingface.co/spaces/azeemaslam/vehicle-detector">Live App</a></h3>
-
----
-
 <h1>More Projects</h1>
 
-<h3><a href="https://github.com/azeem-aslam-ch/Medical-imaging-with-YOLOv9-">Brain Tumor Detection</a> - Medical imaging with YOLOv9</h3>
-<h3><a href="https://github.com/azeem-aslam-ch/industrial_object_detection-">Industrial Object Detection</a> - Industrial computer vision</h3>
-<h3><a href="https://github.com/azeem-aslam-ch/phone_user_detection">Active Phone User Detection</a> - Mobile user detection</h3>
-<h3><a href="https://github.com/azeem-aslam-ch/Clinical_Trial-Insights">Clinical Trial Insights</a> - Clinical data insights</h3>
-
----
-
-<h1>GitHub Trophies</h1>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azeem-aslam-ch&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
-</p>
+<h3><a href="https://3dprintingdefectdetection.streamlit.app/">Additive Manufacturing Defect Detection</a> - YOLO detection of cracking, stringing, and layer shifting in 3D prints</h3>
+<h3><a href="https://huggingface.co/spaces/azeemaslam/vehicle-detector">Two-Wheeler Vehicle Classification</a> - YOLOv8 app on Hugging Face Spaces (<a href="https://github.com/azeem-aslam-ch/two-wheeler-vehicle-detection_app-">code</a>)</h3>
+<h3><a href="https://github.com/azeem-aslam-ch/Medical-imaging-with-YOLOv9-">Brain Tumor Detection</a> - MRI tumor detection with YOLOv8 and YOLOv9</h3>
+<h3><a href="https://github.com/azeem-aslam-ch/industrial_object_detection-">PPE Detection</a> - Helmets, vests, gloves, and glasses in industrial sites</h3>
+<h3><a href="https://github.com/azeem-aslam-ch/phone_user_detection">Active Phone User Detection</a> - YOLOv8 + MediaPipe hand-held phone usage detection</h3>
+<h3><a href="https://github.com/azeem-aslam-ch/DenoisingAutoencode">Denoising Autoencoder</a> - PyTorch image denoising</h3>
+<h3><a href="https://github.com/azeem-aslam-ch/Clinical_Trial-Insights">Clinical Trial Insights</a> - Clinical trial analysis with Apache Spark</h3>
 
 ---
 
