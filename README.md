@@ -4,7 +4,7 @@
 
 <h2 align="center">Computer Vision | NLP | Deep Learning | AI Automation</h2>
 
-<h3 align="center">Scientific AI Developer, Technical Writer, and Freelancer</h3>
+<h3 align="center">AI Engineer &#124; MSc, University of Salford &#124; Open to Freelance Projects</h3>
 
 <h3 align="center">
   <b>I build practical AI systems for healthcare, veterinary science, manufacturing, automation, and NLP products.</b><br/>
