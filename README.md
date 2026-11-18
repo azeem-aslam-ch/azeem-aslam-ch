@@ -42,15 +42,20 @@
 <h1>Technical Stack</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,r,html,css,nextjs,pytorch,tensorflow,opencv,sklearn,fastapi,docker,mongodb,github,git,vercel,vscode&perline=10" alt="Technical stack icons"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,r,html,css,react,nextjs,tailwind,pytorch,tensorflow,opencv,sklearn,anaconda,fastapi,postgres,mongodb,redis,rabbitmq,docker,nginx,selenium,linux,git,github,githubactions,vercel,netlify,vscode,powershell&perline=11" alt="Technical stack icons"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%2F%20CV-YOLOv8%20%7C%20OpenCV%20%7C%20Grad--CAM%20%7C%20Roboflow-0f172a?style=flat-square&labelColor=111827&color=38bdf8" alt="AI CV"/>
-  <img src="https://img.shields.io/badge/NLP%20%2F%20LLM-Hugging%20Face%20%7C%20XLM--RoBERTa%20%7C%20OpenAI%20%7C%20Ollama-0f172a?style=flat-square&labelColor=111827&color=06b6d4" alt="NLP LLM"/>
-  <img src="https://img.shields.io/badge/Backend%20%2F%20Data-FastAPI%20%7C%20MongoDB%20%7C%20RabbitMQ%20%7C%20JWT-0f172a?style=flat-square&labelColor=111827&color=22c55e" alt="Backend Data"/>
-  <img src="https://img.shields.io/badge/Automation-Selenium%20%7C%20Playwright%20%7C%20Docker%20%7C%20Pytest-0f172a?style=flat-square&labelColor=111827&color=f97316" alt="Automation"/>
-  <img src="https://img.shields.io/badge/Reporting-Matplotlib%20%7C%20Plotly%20%7C%20fpdf2%20%7C%20ReportLab-0f172a?style=flat-square&labelColor=111827&color=8b5cf6" alt="Reporting"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-YOLOv8%20%2F%20YOLO11%20%28Ultralytics%29%20%7C%20OpenCV%20%7C%20MediaPipe%20%7C%20Grad--CAM%20%7C%20Roboflow-0f172a?style=flat-square&labelColor=111827&color=38bdf8" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch%20%7C%20TensorFlow%20%7C%20Transformers%20%7C%20scikit--learn-0f172a?style=flat-square&labelColor=111827&color=0ea5e9" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/NLP%20%2F%20LLM-Hugging%20Face%20%7C%20XLM--RoBERTa%20%7C%20OpenAI%20API%20%7C%20Ollama%20%7C%20faster--whisper-0f172a?style=flat-square&labelColor=111827&color=06b6d4" alt="NLP / LLM"/>
+  <img src="https://img.shields.io/badge/Data-Pandas%20%7C%20NumPy%20%7C%20SciPy%20%7C%20Polars%20%7C%20Apache%20Spark%20%7C%20Power%20BI-0f172a?style=flat-square&labelColor=111827&color=14b8a6" alt="Data"/>
+  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Pydantic%20%7C%20SQLAlchemy%20%7C%20Alembic%20%7C%20JWT%20Auth%20%7C%20WebSockets-0f172a?style=flat-square&labelColor=111827&color=22c55e" alt="Backend"/>
+  <img src="https://img.shields.io/badge/Databases%20%2F%20Queues-PostgreSQL%20%7C%20MongoDB%20%7C%20Redis%20%7C%20RabbitMQ-0f172a?style=flat-square&labelColor=111827&color=84cc16" alt="Databases / Queues"/>
+  <img src="https://img.shields.io/badge/Frontend%20%2F%20Apps-Streamlit%20%7C%20Next.js%20%7C%20React%20%7C%20Tailwind%20CSS-0f172a?style=flat-square&labelColor=111827&color=eab308" alt="Frontend / Apps"/>
+  <img src="https://img.shields.io/badge/Automation%20%2F%20Scraping-Selenium%20%7C%20Playwright%20%7C%20BeautifulSoup%20%7C%20n8n%20%7C%20Pytest-0f172a?style=flat-square&labelColor=111827&color=f97316" alt="Automation / Scraping"/>
+  <img src="https://img.shields.io/badge/DevOps%20%2F%20Deploy-Docker%20Compose%20%7C%20Nginx%20%7C%20Streamlit%20Cloud%20%7C%20HF%20Spaces%20%7C%20Vercel%20%7C%20Netlify-0f172a?style=flat-square&labelColor=111827&color=ef4444" alt="DevOps / Deploy"/>
+  <img src="https://img.shields.io/badge/Reporting-Matplotlib%20%7C%20Plotly%20%7C%20fpdf2%20%7C%20ReportLab%20%7C%20python--docx-0f172a?style=flat-square&labelColor=111827&color=8b5cf6" alt="Reporting"/>
 </p>
 
 ---
